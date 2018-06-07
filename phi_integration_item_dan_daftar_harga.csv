@@ -1,0 +1,42 @@
+"kode_item";"kode_produk";"kode_kategori";"kategori";"nama_produk";"unit";"kode_satuan";"harga";"updated";"kenaikan per bulan";"bulan kenaikan 1";"bulan kenaikan 2"
+"ITM-001";"PROD-0000001";"KTG-003";"Sayur-Sayuran";"bawang merah 1kg";1;"kg";11000;01/01/08;0.90;6;3
+"ITM-002";"PROD-0000002";"KTG-003";"Sayur-Sayuran";"bawang putih 1 kg";1;"kg";4200;01/01/08;0.31;1;2
+"ITM-003";"PROD-0000003";"KTG-003";"Sayur-Sayuran";"buncis 1 kg";1;"kg";6200;01/01/08;0.38;6;5
+"ITM-004";"PROD-0000004";"KTG-003";"Sayur-Sayuran";"kacang panjang 1 kg";1;"kg";8000;01/01/08;0.59;5;3
+"ITM-005";"PROD-0000005";"KTG-003";"Sayur-Sayuran";"kacang hijau 1 kg";1;"kg";7100;01/01/08;0.22;5;3
+"ITM-006";"PROD-0000006";"KTG-003";"Sayur-Sayuran";"kentang 1 kg";1;"kg";8000;01/01/08;0.71;2;3
+"ITM-007";"PROD-0000007";"KTG-003";"Sayur-Sayuran";"ketimun 1 kg";1;"kg";4600;01/01/08;0.25;1;4
+"ITM-008";"PROD-0000008";"KTG-003";"Sayur-Sayuran";"kobis 1 kg";1;"kg";1068,12;01/01/08;0.53;4;4
+"ITM-009";"PROD-0000009";"KTG-003";"Sayur-Sayuran";"tomat 1 kg";1;"kg";4700;01/01/08;0.62;2;5
+"ITM-010";"PROD-0000010";"KTG-003";"Sayur-Sayuran";"ubi kayu basah 1 kg";1;"kg";1100;01/01/08;0.23;5;3
+"ITM-011";"PROD-0000011";"KTG-003";"Sayur-Sayuran";"ubi jalar 1 kg";1;"kg";1200;01/01/08;0.27;3;3
+"ITM-012";"PROD-0000012";"KTG-003";"Sayur-Sayuran";"wortel 1 kg";1;"kg";3500;01/01/08;0.44;6;3
+"ITM-022";"PROD-0000013";"KTG-002";"Makanan & Minuman";"susu kotak (800 ml)";1;"ktk";12200;01/01/08;0.75;2;3
+"ITM-023";"PROD-0000014";"KTG-002";"Makanan & Minuman";"telur ayam ras 1 kg";1;"kg";11300;01/01/08;0.99;6;6
+"ITM-023";"PROD-0000015";"KTG-002";"Makanan & Minuman";"telur ayam kampung 1 kg";1;"kg";19000;01/01/08;0.44;1;2
+"ITM-013";"PROD-0000016";"KTG-002";"Makanan & Minuman";"mie instant 1 kotak (40 bungkus)";40;"bks";96000;01/01/08;0.87;2;3
+"ITM-014";"PROD-0000017";"KTG-002";"Makanan & Minuman";"air mineral 600 ml";1;"btl";1200;01/01/08;0.82;6;2
+"ITM-015";"PROD-0000018";"KTG-002";"Makanan & Minuman";"jus kesehatan 600 ml";1;"btl";8900;01/01/08;0.14;3;3
+"ITM-016";"PROD-0000019";"KTG-002";"Makanan & Minuman";"nasi goreng instant (1 ons)";1;"bks";6000;01/01/08;0.46;4;6
+"ITM-017";"PROD-0000020";"KTG-002";"Makanan & Minuman";"snack gurih 1 ons";1;"ons";5228,27;01/01/08;0.77;4;4
+"ITM-018";"PROD-0000021";"KTG-002";"Makanan & Minuman";"kacang goreng 1 kg";1;"kg";12000;01/01/08;0.28;6;2
+"ITM-019";"PROD-0000022";"KTG-002";"Makanan & Minuman";"kacang mete 1 kg";1;"kg";70000;01/01/08;1.00;6;1
+"ITM-020";"PROD-0000023";"KTG-002";"Makanan & Minuman";"markisa 600 ml";1;"btl";14000;01/01/08;0.91;1;3
+"ITM-021";"PROD-0000024";"KTG-002";"Makanan & Minuman";"bumbu fried chicken";1;"bks";15000;01/01/08;0.15;4;1
+"ITM-022";"PROD-0000025";"KTG-002";"Makanan & Minuman";"susu kotak 1 l";1;"btl";10000;01/01/08;0.44;6;4
+"ITM-023";"PROD-0000026";"KTG-002";"Makanan & Minuman";"minuman probiotik";1;"btl";900;01/01/08;0.23;2;1
+"ITM-024";"PROD-0000027";"KTG-001";"Buah";"jeruk 1 kg";1;"kg";12000;01/01/08;0.50;2;4
+"ITM-025";"PROD-0000028";"KTG-001";"Buah";"apel 1 kg";1;"kg";55000;01/01/08;0.41;4;6
+"ITM-026";"PROD-0000029";"KTG-001";"Buah";"alpukat 1 kg";1;"kg";6000;01/01/08;0.96;5;4
+"ITM-027";"PROD-0000030";"KTG-001";"Buah";"belimbing 1 kg";1;"kg";4000;01/01/08;0.55;4;4
+"ITM-028";"PROD-0000031";"KTG-001";"Buah";"durian 1 kg";1;"kg";18000;01/01/08;0.41;1;4
+"ITM-030";"PROD-0000032";"KTG-001";"Buah";"kelapa muda";1;"buah";5000;01/01/08;0.45;2;1
+"ITM-031";"PROD-0000033";"KTG-001";"Buah";"mangga 1 kg";1;"kg";15500;01/01/08;0.38;6;2
+"ITM-032";"PROD-0000034";"KTG-001";"Buah";"Manggis 1 kg";1;"kg";20000;01/01/08;0.30;3;6
+"ITM-033";"PROD-0000035";"KTG-001";"Buah";"nenas 1 kg";1;"kg";6000;01/01/08;0.32;6;2
+"ITM-034";"PROD-0000036";"KTG-001";"Buah";"nangka 1 kg";1;"kg";30000;01/01/08;0.68;3;4
+"ITM-035";"PROD-0000037";"KTG-001";"Buah";"pepaya 1 buah";1;"buah";5000;01/01/08;0.49;4;5
+"ITM-036";"PROD-0000038";"KTG-001";"Buah";"pisang 1 sisir";1;"ssr";6000;01/01/08;0.39;2;1
+"ITM-037";"PROD-0000039";"KTG-001";"Buah";"rambutan 1 kg";1;"kg";5500;01/01/08;0.11;2;1
+"ITM-038";"PROD-0000040";"KTG-001";"Buah";"salak 1 kg";1;"kg";15000;01/01/08;0.12;4;3
+"ITM-039";"PROD-0000041";"KTG-001";"Buah";"semangka 1 buah";1;"buah";13000;01/01/08;0.87;3;2

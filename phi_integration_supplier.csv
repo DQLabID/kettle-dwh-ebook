@@ -1,0 +1,1002 @@
+"kode_supplier";"nama_supplier";"random number for kota";"sisa space";"kode_kota";"nama_kota";"kota_repeat"
+"SUP-001";"Supplier Jakarta Barat-1";45;1;"KOTA-045";"Jakarta Barat";1
+"SUP-002";"Supplier Tasikmalaya-1";44;1;"KOTA-044";"Tasikmalaya";1
+"SUP-003";"Supplier Pangkal Pinang-1";30;1;"KOTA-030";"Pangkal Pinang";1
+"SUP-004";"Supplier Bitung-1";86;1;"KOTA-086";"Bitung";1
+"SUP-005";"Supplier Tangerang -1";34;1;"KOTA-034";"Tangerang ";1
+"SUP-006";"Supplier Banjarbaru-1";72;1;"KOTA-072";"Banjarbaru";1
+"SUP-007";"Supplier Madiun-1";59;1;"KOTA-059";"Madiun";1
+"SUP-008";"Supplier Bandung-1";36;1;"KOTA-036";"Bandung";1
+"SUP-009";"Supplier Tual-1";91;1;"KOTA-091";"Tual";1
+"SUP-010";"Supplier Sukabumi-1";43;1;"KOTA-043";"Sukabumi";1
+"SUP-011";"Supplier Sukabumi-2";43;1;"KOTA-043";"Sukabumi";2
+"SUP-012";"Supplier Bau-Bau-1";83;1;"KOTA-083";"Bau-Bau";1
+"SUP-013";"Supplier Batam-1";31;1;"KOTA-031";"Batam";1
+"SUP-014";"Supplier Metro-1";29;1;"KOTA-029";"Metro";1
+"SUP-015";"Supplier Serang-1";35;1;"KOTA-035";"Serang";1
+"SUP-016";"Supplier Pasuruan-1";62;1;"KOTA-062";"Pasuruan";1
+"SUP-017";"Supplier Bekasi-1";38;1;"KOTA-038";"Bekasi";1
+"SUP-018";"Supplier Lhokseumawe-1";3;2;"KOTA-003";"Lhokseumawe";1
+"SUP-019";"Supplier Bengkulu-1";13;1;"KOTA-013";"Bengkulu";1
+"SUP-020";"Supplier Serang-2";35;1;"KOTA-035";"Serang";2
+"SUP-021";"Supplier Palopo-1";81;1;"KOTA-081";"Palopo";1
+"SUP-022";"Supplier Tomohon-1";88;1;"KOTA-088";"Tomohon";1
+"SUP-023";"Supplier Pangkal Pinang-2";30;1;"KOTA-030";"Pangkal Pinang";2
+"SUP-024";"Supplier Pangkal Pinang-3";30;1;"KOTA-030";"Pangkal Pinang";3
+"SUP-025";"Supplier Bandar Lampung-1";28;1;"KOTA-028";"Bandar Lampung";1
+"SUP-026";"Supplier Cirebon-1";41;1;"KOTA-041";"Cirebon";1
+"SUP-027";"Supplier Tanjung Pinang-1";32;1;"KOTA-032";"Tanjung Pinang";1
+"SUP-028";"Supplier Jakarta Selatan-1";49;1;"KOTA-049";"Jakarta Selatan";1
+"SUP-029";"Supplier Cilegon-1";33;1;"KOTA-033";"Cilegon";1
+"SUP-030";"Supplier Jayapura-1";94;1;"KOTA-094";"Jayapura";1
+"SUP-031";"Supplier Jakarta Utara-1";47;1;"KOTA-047";"Jakarta Utara";1
+"SUP-032";"Supplier Pasuruan-2";62;1;"KOTA-062";"Pasuruan";2
+"SUP-033";"Supplier Pasuruan-3";62;1;"KOTA-062";"Pasuruan";3
+"SUP-034";"Supplier Padang Sidempuan-1";8;2;"KOTA-008";"Padang Sidempuan";1
+"SUP-035";"Supplier Jakarta Pusat-1";46;1;"KOTA-046";"Jakarta Pusat";1
+"SUP-036";"Supplier Banjarbaru-2";72;1;"KOTA-072";"Banjarbaru";2
+"SUP-037";"Supplier Bogor-1";39;1;"KOTA-039";"Bogor";1
+"SUP-038";"Supplier Manado-1";87;1;"KOTA-087";"Manado";1
+"SUP-039";"Supplier Banda Aceh-1";1;2;"KOTA-001";"Banda Aceh";1
+"SUP-040";"Supplier Bekasi-2";38;1;"KOTA-038";"Bekasi";2
+"SUP-041";"Supplier Metro-2";29;1;"KOTA-029";"Metro";2
+"SUP-042";"Supplier Salatiga-1";52;1;"KOTA-052";"Salatiga";1
+"SUP-043";"Supplier Palopo-2";81;1;"KOTA-081";"Palopo";2
+"SUP-044";"Supplier Blitar-1";57;1;"KOTA-057";"Blitar";1
+"SUP-045";"Supplier Surakarta-1";51;1;"KOTA-051";"Surakarta";1
+"SUP-046";"Supplier Binjai-1";6;2;"KOTA-006";"Binjai";1
+"SUP-047";"Supplier Payakumbuh-1";21;1;"KOTA-021";"Payakumbuh";1
+"SUP-048";"Supplier Langsa-1";2;2;"KOTA-002";"Langsa";1
+"SUP-049";"Supplier Manado-2";87;1;"KOTA-087";"Manado";2
+"SUP-050";"Supplier Depok-1";42;1;"KOTA-042";"Depok";1
+"SUP-051";"Supplier Pekalongan-1";54;1;"KOTA-054";"Pekalongan";1
+"SUP-052";"Supplier Semarang-1";53;1;"KOTA-053";"Semarang";1
+"SUP-053";"Supplier Depok-2";42;1;"KOTA-042";"Depok";2
+"SUP-054";"Supplier Palangka Raya-1";74;1;"KOTA-074";"Palangka Raya";1
+"SUP-055";"Supplier Surabaya-1";64;1;"KOTA-064";"Surabaya";1
+"SUP-056";"Supplier Pariaman-1";20;1;"KOTA-020";"Pariaman";1
+"SUP-057";"Supplier Mojokerto-1";61;1;"KOTA-061";"Mojokerto";1
+"SUP-058";"Supplier Tegal-1";55;1;"KOTA-055";"Tegal";1
+"SUP-059";"Supplier Tanjung Pinang-2";32;1;"KOTA-032";"Tanjung Pinang";2
+"SUP-060";"Supplier Pematangsiantar-1";9;2;"KOTA-009";"Pematangsiantar";1
+"SUP-061";"Supplier Ternate-1";92;1;"KOTA-092";"Ternate";1
+"SUP-062";"Supplier Blitar-2";57;1;"KOTA-057";"Blitar";2
+"SUP-063";"Supplier Jakarta Barat-2";45;1;"KOTA-045";"Jakarta Barat";2
+"SUP-064";"Supplier Jakarta Barat-3";45;1;"KOTA-045";"Jakarta Barat";3
+"SUP-065";"Supplier Banjar-1";37;1;"KOTA-037";"Banjar";1
+"SUP-066";"Supplier Pariaman-2";20;1;"KOTA-020";"Pariaman";2
+"SUP-067";"Supplier Denpasar-1";66;1;"KOTA-066";"Denpasar";1
+"SUP-068";"Supplier Gorontalo-1";79;1;"KOTA-079";"Gorontalo";1
+"SUP-069";"Supplier Mataram-1";67;1;"KOTA-067";"Mataram";1
+"SUP-070";"Supplier Magelang-1";50;1;"KOTA-050";"Magelang";1
+"SUP-071";"Supplier Jakarta Barat-4";45;1;"KOTA-045";"Jakarta Barat";4
+"SUP-072";"Supplier Balikpapan-1";75;1;"KOTA-075";"Balikpapan";1
+"SUP-073";"Supplier Malang-1";60;1;"KOTA-060";"Malang";1
+"SUP-074";"Supplier Bandung-2";36;1;"KOTA-036";"Bandung";2
+"SUP-075";"Supplier Palu-1";85;1;"KOTA-085";"Palu";1
+"SUP-076";"Supplier Balikpapan-2";75;1;"KOTA-075";"Balikpapan";2
+"SUP-077";"Supplier Tebing Tinggi-1";12;1;"KOTA-012";"Tebing Tinggi";1
+"SUP-078";"Supplier Depok-3";42;1;"KOTA-042";"Depok";3
+"SUP-079";"Supplier Kotamobagu-1";89;1;"KOTA-089";"Kotamobagu";1
+"SUP-080";"Supplier Jakarta Timur-1";48;1;"KOTA-048";"Jakarta Timur";1
+"SUP-081";"Supplier Sorong-1";95;1;"KOTA-095";"Sorong";1
+"SUP-082";"Supplier Bogor-2";39;1;"KOTA-039";"Bogor";2
+"SUP-083";"Supplier Jakarta Barat-5";45;1;"KOTA-045";"Jakarta Barat";5
+"SUP-084";"Supplier Bontang-1";76;1;"KOTA-076";"Bontang";1
+"SUP-085";"Supplier Depok-4";42;1;"KOTA-042";"Depok";4
+"SUP-086";"Supplier Mataram-2";67;1;"KOTA-067";"Mataram";2
+"SUP-087";"Supplier Palu-2";85;1;"KOTA-085";"Palu";2
+"SUP-088";"Supplier Solok-1";23;1;"KOTA-023";"Solok";1
+"SUP-089";"Supplier Tanjung Pinang-3";32;1;"KOTA-032";"Tanjung Pinang";3
+"SUP-090";"Supplier Magelang-2";50;1;"KOTA-050";"Magelang";2
+"SUP-091";"Supplier Cimahi-1";40;1;"KOTA-040";"Cimahi";1
+"SUP-092";"Supplier Jayapura-2";94;1;"KOTA-094";"Jayapura";2
+"SUP-093";"Supplier Lhokseumawe-2";3;2;"KOTA-003";"Lhokseumawe";2
+"SUP-094";"Supplier Palangka Raya-2";74;1;"KOTA-074";"Palangka Raya";2
+"SUP-095";"Supplier Jambi-1";14;1;"KOTA-014";"Jambi";1
+"SUP-096";"Supplier Sorong-2";95;1;"KOTA-095";"Sorong";2
+"SUP-097";"Supplier Jakarta Utara-2";47;1;"KOTA-047";"Jakarta Utara";2
+"SUP-098";"Supplier Blitar-3";57;1;"KOTA-057";"Blitar";3
+"SUP-099";"Supplier Manado-3";87;1;"KOTA-087";"Manado";3
+"SUP-100";"Supplier Jakarta Barat-6";45;1;"KOTA-045";"Jakarta Barat";6
+"SUP-101";"Supplier Jakarta Utara-3";47;1;"KOTA-047";"Jakarta Utara";3
+"SUP-102";"Supplier Medan-1";7;2;"KOTA-007";"Medan";1
+"SUP-103";"Supplier Makassar-1";80;1;"KOTA-080";"Makassar";1
+"SUP-104";"Supplier Bandung-3";36;1;"KOTA-036";"Bandung";3
+"SUP-105";"Supplier Mataram-3";67;1;"KOTA-067";"Mataram";3
+"SUP-106";"Supplier Tual-2";91;1;"KOTA-091";"Tual";2
+"SUP-107";"Supplier Balikpapan-3";75;1;"KOTA-075";"Balikpapan";3
+"SUP-108";"Supplier Pematangsiantar-2";9;2;"KOTA-009";"Pematangsiantar";2
+"SUP-109";"Supplier Serang-3";35;1;"KOTA-035";"Serang";3
+"SUP-110";"Supplier Tarakan-1";78;1;"KOTA-078";"Tarakan";1
+"SUP-111";"Supplier Probolinggo-1";63;1;"KOTA-063";"Probolinggo";1
+"SUP-112";"Supplier Bau-Bau-2";83;1;"KOTA-083";"Bau-Bau";2
+"SUP-113";"Supplier Semarang-2";53;1;"KOTA-053";"Semarang";2
+"SUP-114";"Supplier Jakarta Barat-7";45;1;"KOTA-045";"Jakarta Barat";7
+"SUP-115";"Supplier Salatiga-2";52;1;"KOTA-052";"Salatiga";2
+"SUP-116";"Supplier Metro-3";29;1;"KOTA-029";"Metro";3
+"SUP-117";"Supplier Cirebon-2";41;1;"KOTA-041";"Cirebon";2
+"SUP-118";"Supplier Padang-1";18;1;"KOTA-018";"Padang";1
+"SUP-119";"Supplier Banjarbaru-3";72;1;"KOTA-072";"Banjarbaru";3
+"SUP-120";"Supplier Serang-4";35;1;"KOTA-035";"Serang";4
+"SUP-121";"Supplier Denpasar-2";66;1;"KOTA-066";"Denpasar";2
+"SUP-122";"Supplier Pekalongan-2";54;1;"KOTA-054";"Pekalongan";2
+"SUP-123";"Supplier Tidore-1";93;1;"KOTA-093";"Tidore";1
+"SUP-124";"Supplier Solok-2";23;1;"KOTA-023";"Solok";2
+"SUP-125";"Supplier Mojokerto-2";61;1;"KOTA-061";"Mojokerto";2
+"SUP-126";"Supplier Bekasi-3";38;1;"KOTA-038";"Bekasi";3
+"SUP-127";"Supplier Bengkulu-2";13;1;"KOTA-013";"Bengkulu";2
+"SUP-128";"Supplier Surabaya-2";64;1;"KOTA-064";"Surabaya";2
+"SUP-129";"Supplier Ternate-2";92;1;"KOTA-092";"Ternate";2
+"SUP-130";"Supplier Surakarta-2";51;1;"KOTA-051";"Surakarta";2
+"SUP-131";"Supplier Magelang-3";50;1;"KOTA-050";"Magelang";3
+"SUP-132";"Supplier Bontang-2";76;1;"KOTA-076";"Bontang";2
+"SUP-133";"Supplier Denpasar-3";66;1;"KOTA-066";"Denpasar";3
+"SUP-134";"Supplier Medan-2";7;2;"KOTA-007";"Medan";2
+"SUP-135";"Supplier Bontang-3";76;1;"KOTA-076";"Bontang";3
+"SUP-136";"Supplier Bandar Lampung-2";28;1;"KOTA-028";"Bandar Lampung";2
+"SUP-137";"Supplier Bogor-3";39;1;"KOTA-039";"Bogor";3
+"SUP-138";"Supplier Palopo-3";81;1;"KOTA-081";"Palopo";3
+"SUP-139";"Supplier Jambi-2";14;1;"KOTA-014";"Jambi";2
+"SUP-140";"Supplier Kotamobagu-2";89;1;"KOTA-089";"Kotamobagu";2
+"SUP-141";"Supplier Sawahlunto-1";22;1;"KOTA-022";"Sawahlunto";1
+"SUP-142";"Supplier Blitar-4";57;1;"KOTA-057";"Blitar";4
+"SUP-143";"Supplier Jakarta Barat-8";45;1;"KOTA-045";"Jakarta Barat";8
+"SUP-144";"Supplier Pariaman-3";20;1;"KOTA-020";"Pariaman";3
+"SUP-145";"Supplier Surabaya-3";64;1;"KOTA-064";"Surabaya";3
+"SUP-146";"Supplier Yogyakarta-1";65;1;"KOTA-065";"Yogyakarta";1
+"SUP-147";"Supplier Makassar-2";80;1;"KOTA-080";"Makassar";2
+"SUP-148";"Supplier Pematangsiantar-3";9;2;"KOTA-009";"Pematangsiantar";3
+"SUP-149";"Supplier Surabaya-4";64;1;"KOTA-064";"Surabaya";4
+"SUP-150";"Supplier Banjarmasin-1";73;1;"KOTA-073";"Banjarmasin";1
+"SUP-151";"Supplier Tomohon-2";88;1;"KOTA-088";"Tomohon";2
+"SUP-152";"Supplier Palopo-4";81;1;"KOTA-081";"Palopo";4
+"SUP-153";"Supplier Padang Panjang-1";19;1;"KOTA-019";"Padang Panjang";1
+"SUP-154";"Supplier Jakarta Timur-2";48;1;"KOTA-048";"Jakarta Timur";2
+"SUP-155";"Supplier Tarakan-2";78;1;"KOTA-078";"Tarakan";2
+"SUP-156";"Supplier Surabaya-5";64;1;"KOTA-064";"Surabaya";5
+"SUP-157";"Supplier Blitar-5";57;1;"KOTA-057";"Blitar";5
+"SUP-158";"Supplier Bandung-4";36;1;"KOTA-036";"Bandung";4
+"SUP-159";"Supplier Ambon-1";90;1;"KOTA-090";"Ambon";1
+"SUP-160";"Supplier Padang-2";18;1;"KOTA-018";"Padang";2
+"SUP-161";"Supplier Ambon-2";90;1;"KOTA-090";"Ambon";2
+"SUP-162";"Supplier Palopo-5";81;1;"KOTA-081";"Palopo";5
+"SUP-163";"Supplier Batam-2";31;1;"KOTA-031";"Batam";2
+"SUP-164";"Supplier Yogyakarta-2";65;1;"KOTA-065";"Yogyakarta";2
+"SUP-165";"Supplier Bau-Bau-3";83;1;"KOTA-083";"Bau-Bau";3
+"SUP-166";"Supplier Binjai-2";6;2;"KOTA-006";"Binjai";2
+"SUP-167";"Supplier Sorong-3";95;1;"KOTA-095";"Sorong";3
+"SUP-168";"Supplier Tomohon-3";88;1;"KOTA-088";"Tomohon";3
+"SUP-169";"Supplier Bontang-4";76;1;"KOTA-076";"Bontang";4
+"SUP-170";"Supplier Tanjung Balai-1";11;1;"KOTA-011";"Tanjung Balai";1
+"SUP-171";"Supplier Tidore-2";93;1;"KOTA-093";"Tidore";2
+"SUP-172";"Supplier Salatiga-3";52;1;"KOTA-052";"Salatiga";3
+"SUP-173";"Supplier Batam-3";31;1;"KOTA-031";"Batam";3
+"SUP-174";"Supplier Padang Panjang-2";19;1;"KOTA-019";"Padang Panjang";2
+"SUP-175";"Supplier Tanjung Pinang-4";32;1;"KOTA-032";"Tanjung Pinang";4
+"SUP-176";"Supplier Gorontalo-2";79;1;"KOTA-079";"Gorontalo";2
+"SUP-177";"Supplier Surakarta-3";51;1;"KOTA-051";"Surakarta";3
+"SUP-178";"Supplier Madiun-2";59;1;"KOTA-059";"Madiun";2
+"SUP-179";"Supplier Pare-Pare-1";82;1;"KOTA-082";"Pare-Pare";1
+"SUP-180";"Supplier Ambon-3";90;1;"KOTA-090";"Ambon";3
+"SUP-181";"Supplier Sabang-1";4;2;"KOTA-004";"Sabang";1
+"SUP-182";"Supplier Banda Aceh-2";1;2;"KOTA-001";"Banda Aceh";2
+"SUP-183";"Supplier Tual-3";91;1;"KOTA-091";"Tual";3
+"SUP-184";"Supplier Sawahlunto-2";22;1;"KOTA-022";"Sawahlunto";2
+"SUP-185";"Supplier Jakarta Pusat-2";46;1;"KOTA-046";"Jakarta Pusat";2
+"SUP-186";"Supplier Denpasar-4";66;1;"KOTA-066";"Denpasar";4
+"SUP-187";"Supplier Pekanbaru-1";16;1;"KOTA-016";"Pekanbaru";1
+"SUP-188";"Supplier Kendari-1";84;1;"KOTA-084";"Kendari";1
+"SUP-189";"Supplier Batam-4";31;1;"KOTA-031";"Batam";4
+"SUP-190";"Supplier Pasuruan-4";62;1;"KOTA-062";"Pasuruan";4
+"SUP-191";"Supplier Banda Aceh-3";1;2;"KOTA-001";"Banda Aceh";3
+"SUP-192";"Supplier Magelang-4";50;1;"KOTA-050";"Magelang";4
+"SUP-193";"Supplier Pontianak-1";70;1;"KOTA-070";"Pontianak";1
+"SUP-194";"Supplier Kendari-2";84;1;"KOTA-084";"Kendari";2
+"SUP-195";"Supplier Jakarta Pusat-3";46;1;"KOTA-046";"Jakarta Pusat";3
+"SUP-196";"Supplier Tarakan-3";78;1;"KOTA-078";"Tarakan";3
+"SUP-197";"Supplier Pagar Alam-1";25;1;"KOTA-025";"Pagar Alam";1
+"SUP-198";"Supplier Madiun-3";59;1;"KOTA-059";"Madiun";3
+"SUP-199";"Supplier Kotamobagu-3";89;1;"KOTA-089";"Kotamobagu";3
+"SUP-200";"Supplier Ambon-4";90;1;"KOTA-090";"Ambon";4
+"SUP-201";"Supplier Tanjung Balai-2";11;1;"KOTA-011";"Tanjung Balai";2
+"SUP-202";"Supplier Serang-5";35;1;"KOTA-035";"Serang";5
+"SUP-203";"Supplier Yogyakarta-3";65;1;"KOTA-065";"Yogyakarta";3
+"SUP-204";"Supplier Bitung-2";86;1;"KOTA-086";"Bitung";2
+"SUP-205";"Supplier Bitung-3";86;1;"KOTA-086";"Bitung";3
+"SUP-206";"Supplier Padang Sidempuan-2";8;2;"KOTA-008";"Padang Sidempuan";2
+"SUP-207";"Supplier Tebing Tinggi-2";12;1;"KOTA-012";"Tebing Tinggi";2
+"SUP-208";"Supplier Banjar-2";37;1;"KOTA-037";"Banjar";2
+"SUP-209";"Supplier Semarang-3";53;1;"KOTA-053";"Semarang";3
+"SUP-210";"Supplier Cimahi-2";40;1;"KOTA-040";"Cimahi";2
+"SUP-211";"Supplier Jakarta Utara-4";47;1;"KOTA-047";"Jakarta Utara";4
+"SUP-212";"Supplier Cimahi-3";40;1;"KOTA-040";"Cimahi";3
+"SUP-213";"Supplier Pematangsiantar-4";9;2;"KOTA-009";"Pematangsiantar";4
+"SUP-214";"Supplier Jakarta Pusat-4";46;1;"KOTA-046";"Jakarta Pusat";4
+"SUP-215";"Supplier Tanjung Pinang-5";32;1;"KOTA-032";"Tanjung Pinang";5
+"SUP-216";"Supplier Batam-5";31;1;"KOTA-031";"Batam";5
+"SUP-217";"Supplier Tanjung Pinang-6";32;1;"KOTA-032";"Tanjung Pinang";6
+"SUP-218";"Supplier Sorong-4";95;1;"KOTA-095";"Sorong";4
+"SUP-219";"Supplier Mojokerto-3";61;1;"KOTA-061";"Mojokerto";3
+"SUP-220";"Supplier Palembang-1";26;1;"KOTA-026";"Palembang";1
+"SUP-221";"Supplier Manado-4";87;1;"KOTA-087";"Manado";4
+"SUP-222";"Supplier Padang Panjang-3";19;1;"KOTA-019";"Padang Panjang";3
+"SUP-223";"Supplier Pasuruan-5";62;1;"KOTA-062";"Pasuruan";5
+"SUP-224";"Supplier Ambon-5";90;1;"KOTA-090";"Ambon";5
+"SUP-225";"Supplier Bontang-5";76;1;"KOTA-076";"Bontang";5
+"SUP-226";"Supplier Surakarta-4";51;1;"KOTA-051";"Surakarta";4
+"SUP-227";"Supplier Kediri-1";58;1;"KOTA-058";"Kediri";1
+"SUP-228";"Supplier Pasuruan-6";62;1;"KOTA-062";"Pasuruan";6
+"SUP-229";"Supplier Kupang-1";69;1;"KOTA-069";"Kupang";1
+"SUP-230";"Supplier Tangerang -2";34;1;"KOTA-034";"Tangerang ";2
+"SUP-231";"Supplier Sabang-2";4;2;"KOTA-004";"Sabang";2
+"SUP-232";"Supplier Batam-6";31;1;"KOTA-031";"Batam";6
+"SUP-233";"Supplier Denpasar-5";66;1;"KOTA-066";"Denpasar";5
+"SUP-234";"Supplier Banjarmasin-2";73;1;"KOTA-073";"Banjarmasin";2
+"SUP-235";"Supplier Sibolga-1";10;1;"KOTA-010";"Sibolga";1
+"SUP-236";"Supplier Bontang-6";76;1;"KOTA-076";"Bontang";6
+"SUP-237";"Supplier Kendari-3";84;1;"KOTA-084";"Kendari";3
+"SUP-238";"Supplier Pontianak-2";70;1;"KOTA-070";"Pontianak";2
+"SUP-239";"Supplier Kediri-2";58;1;"KOTA-058";"Kediri";2
+"SUP-240";"Supplier Banjarmasin-3";73;1;"KOTA-073";"Banjarmasin";3
+"SUP-241";"Supplier Solok-3";23;1;"KOTA-023";"Solok";3
+"SUP-242";"Supplier Bima-1";68;1;"KOTA-068";"Bima";1
+"SUP-243";"Supplier Subulussalam-1";5;2;"KOTA-005";"Subulussalam";1
+"SUP-244";"Supplier Pare-Pare-2";82;1;"KOTA-082";"Pare-Pare";2
+"SUP-245";"Supplier Subulussalam-2";5;2;"KOTA-005";"Subulussalam";2
+"SUP-246";"Supplier Gorontalo-3";79;1;"KOTA-079";"Gorontalo";3
+"SUP-247";"Supplier Sukabumi-3";43;1;"KOTA-043";"Sukabumi";3
+"SUP-248";"Supplier Solok-4";23;1;"KOTA-023";"Solok";4
+"SUP-249";"Supplier Bima-2";68;1;"KOTA-068";"Bima";2
+"SUP-250";"Supplier Gorontalo-4";79;1;"KOTA-079";"Gorontalo";4
+"SUP-251";"Supplier Pagar Alam-2";25;1;"KOTA-025";"Pagar Alam";2
+"SUP-252";"Supplier Sorong-5";95;1;"KOTA-095";"Sorong";5
+"SUP-253";"Supplier Tebing Tinggi-3";12;1;"KOTA-012";"Tebing Tinggi";3
+"SUP-254";"Supplier Lhokseumawe-3";3;2;"KOTA-003";"Lhokseumawe";3
+"SUP-255";"Supplier Sibolga-2";10;1;"KOTA-010";"Sibolga";2
+"SUP-256";"Supplier Langsa-2";2;2;"KOTA-002";"Langsa";2
+"SUP-257";"Supplier Kupang-2";69;1;"KOTA-069";"Kupang";2
+"SUP-258";"Supplier Pariaman-4";20;1;"KOTA-020";"Pariaman";4
+"SUP-259";"Supplier Bima-3";68;1;"KOTA-068";"Bima";3
+"SUP-260";"Supplier Cirebon-3";41;1;"KOTA-041";"Cirebon";3
+"SUP-261";"Supplier Tarakan-4";78;1;"KOTA-078";"Tarakan";4
+"SUP-262";"Supplier Manado-5";87;1;"KOTA-087";"Manado";5
+"SUP-263";"Supplier Surabaya-6";64;1;"KOTA-064";"Surabaya";6
+"SUP-264";"Supplier Pangkal Pinang-4";30;1;"KOTA-030";"Pangkal Pinang";4
+"SUP-265";"Supplier Medan-3";7;2;"KOTA-007";"Medan";3
+"SUP-266";"Supplier Tual-4";91;1;"KOTA-091";"Tual";4
+"SUP-267";"Supplier Jakarta Barat-9";45;1;"KOTA-045";"Jakarta Barat";9
+"SUP-268";"Supplier Palangka Raya-3";74;1;"KOTA-074";"Palangka Raya";3
+"SUP-269";"Supplier Palopo-6";81;1;"KOTA-081";"Palopo";6
+"SUP-270";"Supplier Yogyakarta-4";65;1;"KOTA-065";"Yogyakarta";4
+"SUP-271";"Supplier Jakarta Timur-3";48;1;"KOTA-048";"Jakarta Timur";3
+"SUP-272";"Supplier Dumai-1";15;1;"KOTA-015";"Dumai";1
+"SUP-273";"Supplier Bandar Lampung-3";28;1;"KOTA-028";"Bandar Lampung";3
+"SUP-274";"Supplier Denpasar-6";66;1;"KOTA-066";"Denpasar";6
+"SUP-275";"Supplier Solok-5";23;1;"KOTA-023";"Solok";5
+"SUP-276";"Supplier Bogor-4";39;1;"KOTA-039";"Bogor";4
+"SUP-277";"Supplier Banjarmasin-4";73;1;"KOTA-073";"Banjarmasin";4
+"SUP-278";"Supplier Denpasar-7";66;1;"KOTA-066";"Denpasar";7
+"SUP-279";"Supplier Batu-1";56;1;"KOTA-056";"Batu";1
+"SUP-280";"Supplier Tangerang -3";34;1;"KOTA-034";"Tangerang ";3
+"SUP-281";"Supplier Bima-4";68;1;"KOTA-068";"Bima";4
+"SUP-282";"Supplier Bengkulu-3";13;1;"KOTA-013";"Bengkulu";3
+"SUP-283";"Supplier Tasikmalaya-2";44;1;"KOTA-044";"Tasikmalaya";2
+"SUP-284";"Supplier Banda Aceh-4";1;2;"KOTA-001";"Banda Aceh";4
+"SUP-285";"Supplier Cilegon-2";33;1;"KOTA-033";"Cilegon";2
+"SUP-286";"Supplier Pekanbaru-2";16;1;"KOTA-016";"Pekanbaru";2
+"SUP-287";"Supplier Jakarta Selatan-2";49;1;"KOTA-049";"Jakarta Selatan";2
+"SUP-288";"Supplier Salatiga-4";52;1;"KOTA-052";"Salatiga";4
+"SUP-289";"Supplier Bandar Lampung-4";28;1;"KOTA-028";"Bandar Lampung";4
+"SUP-290";"Supplier Pare-Pare-3";82;1;"KOTA-082";"Pare-Pare";3
+"SUP-291";"Supplier Padang-3";18;1;"KOTA-018";"Padang";3
+"SUP-292";"Supplier Pekanbaru-3";16;1;"KOTA-016";"Pekanbaru";3
+"SUP-293";"Supplier Kupang-3";69;1;"KOTA-069";"Kupang";3
+"SUP-294";"Supplier Ambon-6";90;1;"KOTA-090";"Ambon";6
+"SUP-295";"Supplier Subulussalam-3";5;2;"KOTA-005";"Subulussalam";3
+"SUP-296";"Supplier Bogor-5";39;1;"KOTA-039";"Bogor";5
+"SUP-297";"Supplier Ambon-7";90;1;"KOTA-090";"Ambon";7
+"SUP-298";"Supplier Pekanbaru-4";16;1;"KOTA-016";"Pekanbaru";4
+"SUP-299";"Supplier Cimahi-4";40;1;"KOTA-040";"Cimahi";4
+"SUP-300";"Supplier Bukittinggi-1";17;1;"KOTA-017";"Bukittinggi";1
+"SUP-301";"Supplier Sabang-3";4;2;"KOTA-004";"Sabang";3
+"SUP-302";"Supplier Tasikmalaya-3";44;1;"KOTA-044";"Tasikmalaya";3
+"SUP-303";"Supplier Bandung-5";36;1;"KOTA-036";"Bandung";5
+"SUP-304";"Supplier Lhokseumawe-4";3;2;"KOTA-003";"Lhokseumawe";4
+"SUP-305";"Supplier Salatiga-5";52;1;"KOTA-052";"Salatiga";5
+"SUP-306";"Supplier Binjai-3";6;2;"KOTA-006";"Binjai";3
+"SUP-307";"Supplier Dumai-2";15;1;"KOTA-015";"Dumai";2
+"SUP-308";"Supplier Ternate-3";92;1;"KOTA-092";"Ternate";3
+"SUP-309";"Supplier Banjarmasin-5";73;1;"KOTA-073";"Banjarmasin";5
+"SUP-310";"Supplier Banjarmasin-6";73;1;"KOTA-073";"Banjarmasin";6
+"SUP-311";"Supplier Kotamobagu-4";89;1;"KOTA-089";"Kotamobagu";4
+"SUP-312";"Supplier Tanjung Pinang-7";32;1;"KOTA-032";"Tanjung Pinang";7
+"SUP-313";"Supplier Blitar-6";57;1;"KOTA-057";"Blitar";6
+"SUP-314";"Supplier Serang-6";35;1;"KOTA-035";"Serang";6
+"SUP-315";"Supplier Pematangsiantar-5";9;2;"KOTA-009";"Pematangsiantar";5
+"SUP-316";"Supplier Lhokseumawe-5";3;2;"KOTA-003";"Lhokseumawe";5
+"SUP-317";"Supplier Pasuruan-7";62;1;"KOTA-062";"Pasuruan";7
+"SUP-318";"Supplier Yogyakarta-5";65;1;"KOTA-065";"Yogyakarta";5
+"SUP-319";"Supplier Tomohon-4";88;1;"KOTA-088";"Tomohon";4
+"SUP-320";"Supplier Mojokerto-4";61;1;"KOTA-061";"Mojokerto";4
+"SUP-321";"Supplier Cirebon-4";41;1;"KOTA-041";"Cirebon";4
+"SUP-322";"Supplier Tual-5";91;1;"KOTA-091";"Tual";5
+"SUP-323";"Supplier Bau-Bau-4";83;1;"KOTA-083";"Bau-Bau";4
+"SUP-324";"Supplier Pasuruan-8";62;1;"KOTA-062";"Pasuruan";8
+"SUP-325";"Supplier Metro-4";29;1;"KOTA-029";"Metro";4
+"SUP-326";"Supplier Pekanbaru-5";16;1;"KOTA-016";"Pekanbaru";5
+"SUP-327";"Supplier Tanjung Pinang-8";32;1;"KOTA-032";"Tanjung Pinang";8
+"SUP-328";"Supplier Cirebon-5";41;1;"KOTA-041";"Cirebon";5
+"SUP-329";"Supplier Bengkulu-4";13;1;"KOTA-013";"Bengkulu";4
+"SUP-330";"Supplier Tebing Tinggi-4";12;1;"KOTA-012";"Tebing Tinggi";4
+"SUP-331";"Supplier Jayapura-3";94;1;"KOTA-094";"Jayapura";3
+"SUP-332";"Supplier Bengkulu-5";13;1;"KOTA-013";"Bengkulu";5
+"SUP-333";"Supplier Tanjung Pinang-9";32;1;"KOTA-032";"Tanjung Pinang";9
+"SUP-334";"Supplier Yogyakarta-6";65;1;"KOTA-065";"Yogyakarta";6
+"SUP-335";"Supplier Pontianak-3";70;1;"KOTA-070";"Pontianak";3
+"SUP-336";"Supplier Jambi-3";14;1;"KOTA-014";"Jambi";3
+"SUP-337";"Supplier Langsa-3";2;2;"KOTA-002";"Langsa";3
+"SUP-338";"Supplier Medan-4";7;2;"KOTA-007";"Medan";4
+"SUP-339";"Supplier Cilegon-3";33;1;"KOTA-033";"Cilegon";3
+"SUP-340";"Supplier Payakumbuh-2";21;1;"KOTA-021";"Payakumbuh";2
+"SUP-341";"Supplier Sawahlunto-3";22;1;"KOTA-022";"Sawahlunto";3
+"SUP-342";"Supplier Banjarbaru-4";72;1;"KOTA-072";"Banjarbaru";4
+"SUP-343";"Supplier Kediri-3";58;1;"KOTA-058";"Kediri";3
+"SUP-344";"Supplier Tanjung Balai-3";11;1;"KOTA-011";"Tanjung Balai";3
+"SUP-345";"Supplier Balikpapan-4";75;1;"KOTA-075";"Balikpapan";4
+"SUP-346";"Supplier Salatiga-6";52;1;"KOTA-052";"Salatiga";6
+"SUP-347";"Supplier Bekasi-4";38;1;"KOTA-038";"Bekasi";4
+"SUP-348";"Supplier Batu-2";56;1;"KOTA-056";"Batu";2
+"SUP-349";"Supplier Banjarbaru-5";72;1;"KOTA-072";"Banjarbaru";5
+"SUP-350";"Supplier Yogyakarta-7";65;1;"KOTA-065";"Yogyakarta";7
+"SUP-351";"Supplier Prabumulih-1";27;1;"KOTA-027";"Prabumulih";1
+"SUP-352";"Supplier Mataram-4";67;1;"KOTA-067";"Mataram";4
+"SUP-353";"Supplier Payakumbuh-3";21;1;"KOTA-021";"Payakumbuh";3
+"SUP-354";"Supplier Jakarta Selatan-3";49;1;"KOTA-049";"Jakarta Selatan";3
+"SUP-355";"Supplier Tidore-3";93;1;"KOTA-093";"Tidore";3
+"SUP-356";"Supplier Jakarta Pusat-5";46;1;"KOTA-046";"Jakarta Pusat";5
+"SUP-357";"Supplier Sabang-4";4;2;"KOTA-004";"Sabang";4
+"SUP-358";"Supplier Metro-5";29;1;"KOTA-029";"Metro";5
+"SUP-359";"Supplier Tegal-2";55;1;"KOTA-055";"Tegal";2
+"SUP-360";"Supplier Jakarta Barat-10";45;1;"KOTA-045";"Jakarta Barat";10
+"SUP-361";"Supplier Mojokerto-5";61;1;"KOTA-061";"Mojokerto";5
+"SUP-362";"Supplier Pematangsiantar-6";9;2;"KOTA-009";"Pematangsiantar";6
+"SUP-363";"Supplier Malang-2";60;1;"KOTA-060";"Malang";2
+"SUP-364";"Supplier Salatiga-7";52;1;"KOTA-052";"Salatiga";7
+"SUP-365";"Supplier Palembang-2";26;1;"KOTA-026";"Palembang";2
+"SUP-366";"Supplier Kotamobagu-5";89;1;"KOTA-089";"Kotamobagu";5
+"SUP-367";"Supplier Sorong-6";95;1;"KOTA-095";"Sorong";6
+"SUP-368";"Supplier Jakarta Selatan-4";49;1;"KOTA-049";"Jakarta Selatan";4
+"SUP-369";"Supplier Bau-Bau-5";83;1;"KOTA-083";"Bau-Bau";5
+"SUP-370";"Supplier Jakarta Timur-4";48;1;"KOTA-048";"Jakarta Timur";4
+"SUP-371";"Supplier Mataram-5";67;1;"KOTA-067";"Mataram";5
+"SUP-372";"Supplier Pasuruan-9";62;1;"KOTA-062";"Pasuruan";9
+"SUP-373";"Supplier Jayapura-4";94;1;"KOTA-094";"Jayapura";4
+"SUP-374";"Supplier Bogor-6";39;1;"KOTA-039";"Bogor";6
+"SUP-375";"Supplier Blitar-7";57;1;"KOTA-057";"Blitar";7
+"SUP-376";"Supplier Kotamobagu-6";89;1;"KOTA-089";"Kotamobagu";6
+"SUP-377";"Supplier Makassar-3";80;1;"KOTA-080";"Makassar";3
+"SUP-378";"Supplier Padang-4";18;1;"KOTA-018";"Padang";4
+"SUP-379";"Supplier Lhokseumawe-6";3;2;"KOTA-003";"Lhokseumawe";6
+"SUP-380";"Supplier Tual-6";91;1;"KOTA-091";"Tual";6
+"SUP-381";"Supplier Lhokseumawe-7";3;2;"KOTA-003";"Lhokseumawe";7
+"SUP-382";"Supplier Bandar Lampung-5";28;1;"KOTA-028";"Bandar Lampung";5
+"SUP-383";"Supplier Sukabumi-4";43;1;"KOTA-043";"Sukabumi";4
+"SUP-384";"Supplier Bekasi-5";38;1;"KOTA-038";"Bekasi";5
+"SUP-385";"Supplier Palu-3";85;1;"KOTA-085";"Palu";3
+"SUP-386";"Supplier Medan-5";7;2;"KOTA-007";"Medan";5
+"SUP-387";"Supplier Tebing Tinggi-5";12;1;"KOTA-012";"Tebing Tinggi";5
+"SUP-388";"Supplier Banda Aceh-5";1;2;"KOTA-001";"Banda Aceh";5
+"SUP-389";"Supplier Tebing Tinggi-6";12;1;"KOTA-012";"Tebing Tinggi";6
+"SUP-390";"Supplier Tanjung Balai-4";11;1;"KOTA-011";"Tanjung Balai";4
+"SUP-391";"Supplier Pontianak-4";70;1;"KOTA-070";"Pontianak";4
+"SUP-392";"Supplier Kendari-4";84;1;"KOTA-084";"Kendari";4
+"SUP-393";"Supplier Madiun-4";59;1;"KOTA-059";"Madiun";4
+"SUP-394";"Supplier Bau-Bau-6";83;1;"KOTA-083";"Bau-Bau";6
+"SUP-395";"Supplier Padang-5";18;1;"KOTA-018";"Padang";5
+"SUP-396";"Supplier Padang Sidempuan-3";8;2;"KOTA-008";"Padang Sidempuan";3
+"SUP-397";"Supplier Medan-6";7;2;"KOTA-007";"Medan";6
+"SUP-398";"Supplier Bau-Bau-7";83;1;"KOTA-083";"Bau-Bau";7
+"SUP-399";"Supplier Tasikmalaya-4";44;1;"KOTA-044";"Tasikmalaya";4
+"SUP-400";"Supplier Tasikmalaya-5";44;1;"KOTA-044";"Tasikmalaya";5
+"SUP-401";"Supplier Bekasi-6";38;1;"KOTA-038";"Bekasi";6
+"SUP-402";"Supplier Mojokerto-6";61;1;"KOTA-061";"Mojokerto";6
+"SUP-403";"Supplier Batu-3";56;1;"KOTA-056";"Batu";3
+"SUP-404";"Supplier Jakarta Selatan-5";49;1;"KOTA-049";"Jakarta Selatan";5
+"SUP-405";"Supplier Magelang-5";50;1;"KOTA-050";"Magelang";5
+"SUP-406";"Supplier Jakarta Selatan-6";49;1;"KOTA-049";"Jakarta Selatan";6
+"SUP-407";"Supplier Gorontalo-5";79;1;"KOTA-079";"Gorontalo";5
+"SUP-408";"Supplier Prabumulih-2";27;1;"KOTA-027";"Prabumulih";2
+"SUP-409";"Supplier Jakarta Utara-5";47;1;"KOTA-047";"Jakarta Utara";5
+"SUP-410";"Supplier Bandung-6";36;1;"KOTA-036";"Bandung";6
+"SUP-411";"Supplier Sabang-5";4;2;"KOTA-004";"Sabang";5
+"SUP-412";"Supplier Payakumbuh-4";21;1;"KOTA-021";"Payakumbuh";4
+"SUP-413";"Supplier Jakarta Utara-6";47;1;"KOTA-047";"Jakarta Utara";6
+"SUP-414";"Supplier Surabaya-7";64;1;"KOTA-064";"Surabaya";7
+"SUP-415";"Supplier Padang Panjang-4";19;1;"KOTA-019";"Padang Panjang";4
+"SUP-416";"Supplier Yogyakarta-8";65;1;"KOTA-065";"Yogyakarta";8
+"SUP-417";"Supplier Makassar-4";80;1;"KOTA-080";"Makassar";4
+"SUP-418";"Supplier Denpasar-8";66;1;"KOTA-066";"Denpasar";8
+"SUP-419";"Supplier Serang-7";35;1;"KOTA-035";"Serang";7
+"SUP-420";"Supplier Banjar-3";37;1;"KOTA-037";"Banjar";3
+"SUP-421";"Supplier Tangerang -4";34;1;"KOTA-034";"Tangerang ";4
+"SUP-422";"Supplier Bogor-7";39;1;"KOTA-039";"Bogor";7
+"SUP-423";"Supplier Yogyakarta-9";65;1;"KOTA-065";"Yogyakarta";9
+"SUP-424";"Supplier Pangkal Pinang-5";30;1;"KOTA-030";"Pangkal Pinang";5
+"SUP-425";"Supplier Serang-8";35;1;"KOTA-035";"Serang";8
+"SUP-426";"Supplier Balikpapan-5";75;1;"KOTA-075";"Balikpapan";5
+"SUP-427";"Supplier Ambon-8";90;1;"KOTA-090";"Ambon";8
+"SUP-428";"Supplier Sawahlunto-4";22;1;"KOTA-022";"Sawahlunto";4
+"SUP-429";"Supplier Tegal-3";55;1;"KOTA-055";"Tegal";3
+"SUP-430";"Supplier Bukittinggi-2";17;1;"KOTA-017";"Bukittinggi";2
+"SUP-431";"Supplier Tangerang -5";34;1;"KOTA-034";"Tangerang ";5
+"SUP-432";"Supplier Pekalongan-3";54;1;"KOTA-054";"Pekalongan";3
+"SUP-433";"Supplier Padang Sidempuan-4";8;2;"KOTA-008";"Padang Sidempuan";4
+"SUP-434";"Supplier Cilegon-4";33;1;"KOTA-033";"Cilegon";4
+"SUP-435";"Supplier Pontianak-5";70;1;"KOTA-070";"Pontianak";5
+"SUP-436";"Supplier Gorontalo-6";79;1;"KOTA-079";"Gorontalo";6
+"SUP-437";"Supplier Banda Aceh-6";1;2;"KOTA-001";"Banda Aceh";6
+"SUP-438";"Supplier Kendari-5";84;1;"KOTA-084";"Kendari";5
+"SUP-439";"Supplier Tebing Tinggi-7";12;1;"KOTA-012";"Tebing Tinggi";7
+"SUP-440";"Supplier Ternate-4";92;1;"KOTA-092";"Ternate";4
+"SUP-441";"Supplier Mojokerto-7";61;1;"KOTA-061";"Mojokerto";7
+"SUP-442";"Supplier Yogyakarta-10";65;1;"KOTA-065";"Yogyakarta";10
+"SUP-443";"Supplier Palu-4";85;1;"KOTA-085";"Palu";4
+"SUP-444";"Supplier Sawahlunto-5";22;1;"KOTA-022";"Sawahlunto";5
+"SUP-445";"Supplier Palopo-7";81;1;"KOTA-081";"Palopo";7
+"SUP-446";"Supplier Banda Aceh-7";1;2;"KOTA-001";"Banda Aceh";7
+"SUP-447";"Supplier Pariaman-5";20;1;"KOTA-020";"Pariaman";5
+"SUP-448";"Supplier Palangka Raya-4";74;1;"KOTA-074";"Palangka Raya";4
+"SUP-449";"Supplier Kediri-4";58;1;"KOTA-058";"Kediri";4
+"SUP-450";"Supplier Sorong-7";95;1;"KOTA-095";"Sorong";7
+"SUP-451";"Supplier Bengkulu-6";13;1;"KOTA-013";"Bengkulu";6
+"SUP-452";"Supplier Surakarta-5";51;1;"KOTA-051";"Surakarta";5
+"SUP-453";"Supplier Payakumbuh-5";21;1;"KOTA-021";"Payakumbuh";5
+"SUP-454";"Supplier Jayapura-5";94;1;"KOTA-094";"Jayapura";5
+"SUP-455";"Supplier Padang-6";18;1;"KOTA-018";"Padang";6
+"SUP-456";"Supplier Mataram-6";67;1;"KOTA-067";"Mataram";6
+"SUP-457";"Supplier Tangerang -6";34;1;"KOTA-034";"Tangerang ";6
+"SUP-458";"Supplier Bima-5";68;1;"KOTA-068";"Bima";5
+"SUP-459";"Supplier Pekalongan-4";54;1;"KOTA-054";"Pekalongan";4
+"SUP-460";"Supplier Pariaman-6";20;1;"KOTA-020";"Pariaman";6
+"SUP-461";"Supplier Metro-6";29;1;"KOTA-029";"Metro";6
+"SUP-462";"Supplier Semarang-4";53;1;"KOTA-053";"Semarang";4
+"SUP-463";"Supplier Bontang-7";76;1;"KOTA-076";"Bontang";7
+"SUP-464";"Supplier Kupang-4";69;1;"KOTA-069";"Kupang";4
+"SUP-465";"Supplier Semarang-5";53;1;"KOTA-053";"Semarang";5
+"SUP-466";"Supplier Ternate-5";92;1;"KOTA-092";"Ternate";5
+"SUP-467";"Supplier Palembang-3";26;1;"KOTA-026";"Palembang";3
+"SUP-468";"Supplier Cimahi-5";40;1;"KOTA-040";"Cimahi";5
+"SUP-469";"Supplier Payakumbuh-6";21;1;"KOTA-021";"Payakumbuh";6
+"SUP-470";"Supplier Tanjung Pinang-10";32;1;"KOTA-032";"Tanjung Pinang";10
+"SUP-471";"Supplier Pariaman-7";20;1;"KOTA-020";"Pariaman";7
+"SUP-472";"Supplier Subulussalam-4";5;2;"KOTA-005";"Subulussalam";4
+"SUP-473";"Supplier Pangkal Pinang-6";30;1;"KOTA-030";"Pangkal Pinang";6
+"SUP-474";"Supplier Lubuklinggau-1";24;1;"KOTA-024";"Lubuklinggau";1
+"SUP-475";"Supplier Jakarta Barat-11";45;1;"KOTA-045";"Jakarta Barat";11
+"SUP-476";"Supplier Madiun-5";59;1;"KOTA-059";"Madiun";5
+"SUP-477";"Supplier Depok-5";42;1;"KOTA-042";"Depok";5
+"SUP-478";"Supplier Salatiga-8";52;1;"KOTA-052";"Salatiga";8
+"SUP-479";"Supplier Sabang-6";4;2;"KOTA-004";"Sabang";6
+"SUP-480";"Supplier Pariaman-8";20;1;"KOTA-020";"Pariaman";8
+"SUP-481";"Supplier Manado-6";87;1;"KOTA-087";"Manado";6
+"SUP-482";"Supplier Sibolga-3";10;1;"KOTA-010";"Sibolga";3
+"SUP-483";"Supplier Palembang-4";26;1;"KOTA-026";"Palembang";4
+"SUP-484";"Supplier Pekanbaru-6";16;1;"KOTA-016";"Pekanbaru";6
+"SUP-485";"Supplier Makassar-5";80;1;"KOTA-080";"Makassar";5
+"SUP-486";"Supplier Kupang-5";69;1;"KOTA-069";"Kupang";5
+"SUP-487";"Supplier Kotamobagu-7";89;1;"KOTA-089";"Kotamobagu";7
+"SUP-488";"Supplier Lubuklinggau-2";24;1;"KOTA-024";"Lubuklinggau";2
+"SUP-489";"Supplier Padang Panjang-5";19;1;"KOTA-019";"Padang Panjang";5
+"SUP-490";"Supplier Langsa-4";2;2;"KOTA-002";"Langsa";4
+"SUP-491";"Supplier Sibolga-4";10;1;"KOTA-010";"Sibolga";4
+"SUP-492";"Supplier Subulussalam-5";5;2;"KOTA-005";"Subulussalam";5
+"SUP-493";"Supplier Cirebon-6";41;1;"KOTA-041";"Cirebon";6
+"SUP-494";"Supplier Singkawang-1";71;1;"KOTA-071";"Singkawang";1
+"SUP-495";"Supplier Gorontalo-7";79;1;"KOTA-079";"Gorontalo";7
+"SUP-496";"Supplier Medan-7";7;2;"KOTA-007";"Medan";7
+"SUP-497";"Supplier Batu-4";56;1;"KOTA-056";"Batu";4
+"SUP-498";"Supplier Cimahi-6";40;1;"KOTA-040";"Cimahi";6
+"SUP-499";"Supplier Banjarmasin-7";73;1;"KOTA-073";"Banjarmasin";7
+"SUP-500";"Supplier Kendari-6";84;1;"KOTA-084";"Kendari";6
+"SUP-501";"Supplier Malang-3";60;1;"KOTA-060";"Malang";3
+"SUP-502";"Supplier Banjarmasin-8";73;1;"KOTA-073";"Banjarmasin";8
+"SUP-503";"Supplier Mataram-7";67;1;"KOTA-067";"Mataram";7
+"SUP-504";"Supplier Kendari-7";84;1;"KOTA-084";"Kendari";7
+"SUP-505";"Supplier Mataram-8";67;1;"KOTA-067";"Mataram";8
+"SUP-506";"Supplier Kupang-6";69;1;"KOTA-069";"Kupang";6
+"SUP-507";"Supplier Subulussalam-6";5;2;"KOTA-005";"Subulussalam";6
+"SUP-508";"Supplier Tarakan-5";78;1;"KOTA-078";"Tarakan";5
+"SUP-509";"Supplier Solok-6";23;1;"KOTA-023";"Solok";6
+"SUP-510";"Supplier Jakarta Selatan-7";49;1;"KOTA-049";"Jakarta Selatan";7
+"SUP-511";"Supplier Bukittinggi-3";17;1;"KOTA-017";"Bukittinggi";3
+"SUP-512";"Supplier Palangka Raya-5";74;1;"KOTA-074";"Palangka Raya";5
+"SUP-513";"Supplier Kediri-5";58;1;"KOTA-058";"Kediri";5
+"SUP-514";"Supplier Denpasar-9";66;1;"KOTA-066";"Denpasar";9
+"SUP-515";"Supplier Sabang-7";4;2;"KOTA-004";"Sabang";7
+"SUP-516";"Supplier Banjarbaru-6";72;1;"KOTA-072";"Banjarbaru";6
+"SUP-517";"Supplier Banda Aceh-8";1;2;"KOTA-001";"Banda Aceh";8
+"SUP-518";"Supplier Jakarta Selatan-8";49;1;"KOTA-049";"Jakarta Selatan";8
+"SUP-519";"Supplier Jakarta Selatan-9";49;1;"KOTA-049";"Jakarta Selatan";9
+"SUP-520";"Supplier Tasikmalaya-6";44;1;"KOTA-044";"Tasikmalaya";6
+"SUP-521";"Supplier Surabaya-8";64;1;"KOTA-064";"Surabaya";8
+"SUP-522";"Supplier Pasuruan-10";62;1;"KOTA-062";"Pasuruan";10
+"SUP-523";"Supplier Medan-8";7;2;"KOTA-007";"Medan";8
+"SUP-524";"Supplier Batu-5";56;1;"KOTA-056";"Batu";5
+"SUP-525";"Supplier Banjarmasin-9";73;1;"KOTA-073";"Banjarmasin";9
+"SUP-526";"Supplier Jakarta Selatan-10";49;1;"KOTA-049";"Jakarta Selatan";10
+"SUP-527";"Supplier Bandung-7";36;1;"KOTA-036";"Bandung";7
+"SUP-528";"Supplier Binjai-4";6;2;"KOTA-006";"Binjai";4
+"SUP-529";"Supplier Bengkulu-7";13;1;"KOTA-013";"Bengkulu";7
+"SUP-530";"Supplier Tanjung Balai-5";11;1;"KOTA-011";"Tanjung Balai";5
+"SUP-531";"Supplier Pekanbaru-7";16;1;"KOTA-016";"Pekanbaru";7
+"SUP-532";"Supplier Blitar-8";57;1;"KOTA-057";"Blitar";8
+"SUP-533";"Supplier Cilegon-5";33;1;"KOTA-033";"Cilegon";5
+"SUP-534";"Supplier Medan-9";7;2;"KOTA-007";"Medan";9
+"SUP-535";"Supplier Pekanbaru-8";16;1;"KOTA-016";"Pekanbaru";8
+"SUP-536";"Supplier Pematangsiantar-7";9;2;"KOTA-009";"Pematangsiantar";7
+"SUP-537";"Supplier Bukittinggi-4";17;1;"KOTA-017";"Bukittinggi";4
+"SUP-538";"Supplier Pangkal Pinang-7";30;1;"KOTA-030";"Pangkal Pinang";7
+"SUP-539";"Supplier Metro-7";29;1;"KOTA-029";"Metro";7
+"SUP-540";"Supplier Banda Aceh-9";1;2;"KOTA-001";"Banda Aceh";9
+"SUP-541";"Supplier Kotamobagu-8";89;1;"KOTA-089";"Kotamobagu";8
+"SUP-542";"Supplier Payakumbuh-7";21;1;"KOTA-021";"Payakumbuh";7
+"SUP-543";"Supplier Lhokseumawe-8";3;2;"KOTA-003";"Lhokseumawe";8
+"SUP-544";"Supplier Salatiga-9";52;1;"KOTA-052";"Salatiga";9
+"SUP-545";"Supplier Bima-6";68;1;"KOTA-068";"Bima";6
+"SUP-546";"Supplier Kotamobagu-9";89;1;"KOTA-089";"Kotamobagu";9
+"SUP-547";"Supplier Sibolga-5";10;1;"KOTA-010";"Sibolga";5
+"SUP-548";"Supplier Tegal-4";55;1;"KOTA-055";"Tegal";4
+"SUP-549";"Supplier Dumai-3";15;1;"KOTA-015";"Dumai";3
+"SUP-550";"Supplier Lubuklinggau-3";24;1;"KOTA-024";"Lubuklinggau";3
+"SUP-551";"Supplier Bogor-8";39;1;"KOTA-039";"Bogor";8
+"SUP-552";"Supplier Pematangsiantar-8";9;2;"KOTA-009";"Pematangsiantar";8
+"SUP-553";"Supplier Bima-7";68;1;"KOTA-068";"Bima";7
+"SUP-554";"Supplier Subulussalam-7";5;2;"KOTA-005";"Subulussalam";7
+"SUP-555";"Supplier Batam-7";31;1;"KOTA-031";"Batam";7
+"SUP-556";"Supplier Bandung-8";36;1;"KOTA-036";"Bandung";8
+"SUP-557";"Supplier Tarakan-6";78;1;"KOTA-078";"Tarakan";6
+"SUP-558";"Supplier Probolinggo-2";63;1;"KOTA-063";"Probolinggo";2
+"SUP-559";"Supplier Prabumulih-3";27;1;"KOTA-027";"Prabumulih";3
+"SUP-560";"Supplier Bekasi-7";38;1;"KOTA-038";"Bekasi";7
+"SUP-561";"Supplier Prabumulih-4";27;1;"KOTA-027";"Prabumulih";4
+"SUP-562";"Supplier Sabang-8";4;2;"KOTA-004";"Sabang";8
+"SUP-563";"Supplier Makassar-6";80;1;"KOTA-080";"Makassar";6
+"SUP-564";"Supplier Kupang-7";69;1;"KOTA-069";"Kupang";7
+"SUP-565";"Supplier Dumai-4";15;1;"KOTA-015";"Dumai";4
+"SUP-566";"Supplier Padang-7";18;1;"KOTA-018";"Padang";7
+"SUP-567";"Supplier Sabang-9";4;2;"KOTA-004";"Sabang";9
+"SUP-568";"Supplier Blitar-9";57;1;"KOTA-057";"Blitar";9
+"SUP-569";"Supplier Lubuklinggau-4";24;1;"KOTA-024";"Lubuklinggau";4
+"SUP-570";"Supplier Bima-8";68;1;"KOTA-068";"Bima";8
+"SUP-571";"Supplier Batam-8";31;1;"KOTA-031";"Batam";8
+"SUP-572";"Supplier Padang-8";18;1;"KOTA-018";"Padang";8
+"SUP-573";"Supplier Samarinda-1";77;1;"KOTA-077";"Samarinda";1
+"SUP-574";"Supplier Tidore-4";93;1;"KOTA-093";"Tidore";4
+"SUP-575";"Supplier Kendari-8";84;1;"KOTA-084";"Kendari";8
+"SUP-576";"Supplier Kendari-9";84;1;"KOTA-084";"Kendari";9
+"SUP-577";"Supplier Bekasi-8";38;1;"KOTA-038";"Bekasi";8
+"SUP-578";"Supplier Batu-6";56;1;"KOTA-056";"Batu";6
+"SUP-579";"Supplier Magelang-6";50;1;"KOTA-050";"Magelang";6
+"SUP-580";"Supplier Yogyakarta-11";65;1;"KOTA-065";"Yogyakarta";11
+"SUP-581";"Supplier Bogor-9";39;1;"KOTA-039";"Bogor";9
+"SUP-582";"Supplier Manado-7";87;1;"KOTA-087";"Manado";7
+"SUP-583";"Supplier Langsa-5";2;2;"KOTA-002";"Langsa";5
+"SUP-584";"Supplier Pariaman-9";20;1;"KOTA-020";"Pariaman";9
+"SUP-585";"Supplier Bekasi-9";38;1;"KOTA-038";"Bekasi";9
+"SUP-586";"Supplier Pariaman-10";20;1;"KOTA-020";"Pariaman";10
+"SUP-587";"Supplier Bukittinggi-5";17;1;"KOTA-017";"Bukittinggi";5
+"SUP-588";"Supplier Samarinda-2";77;1;"KOTA-077";"Samarinda";2
+"SUP-589";"Supplier Bima-9";68;1;"KOTA-068";"Bima";9
+"SUP-590";"Supplier Lhokseumawe-9";3;2;"KOTA-003";"Lhokseumawe";9
+"SUP-591";"Supplier Pangkal Pinang-8";30;1;"KOTA-030";"Pangkal Pinang";8
+"SUP-592";"Supplier Padang Sidempuan-5";8;2;"KOTA-008";"Padang Sidempuan";5
+"SUP-593";"Supplier Prabumulih-5";27;1;"KOTA-027";"Prabumulih";5
+"SUP-594";"Supplier Surabaya-9";64;1;"KOTA-064";"Surabaya";9
+"SUP-595";"Supplier Semarang-6";53;1;"KOTA-053";"Semarang";6
+"SUP-596";"Supplier Pariaman-11";20;1;"KOTA-020";"Pariaman";11
+"SUP-597";"Supplier Jakarta Barat-12";45;1;"KOTA-045";"Jakarta Barat";12
+"SUP-598";"Supplier Medan-10";7;2;"KOTA-007";"Medan";10
+"SUP-599";"Supplier Probolinggo-3";63;1;"KOTA-063";"Probolinggo";3
+"SUP-600";"Supplier Batu-7";56;1;"KOTA-056";"Batu";7
+"SUP-601";"Supplier Pekalongan-5";54;1;"KOTA-054";"Pekalongan";5
+"SUP-602";"Supplier Padang-9";18;1;"KOTA-018";"Padang";9
+"SUP-603";"Supplier Madiun-6";59;1;"KOTA-059";"Madiun";6
+"SUP-604";"Supplier Pematangsiantar-9";9;2;"KOTA-009";"Pematangsiantar";9
+"SUP-605";"Supplier Palopo-8";81;1;"KOTA-081";"Palopo";8
+"SUP-606";"Supplier Tanjung Balai-6";11;1;"KOTA-011";"Tanjung Balai";6
+"SUP-607";"Supplier Ambon-9";90;1;"KOTA-090";"Ambon";9
+"SUP-608";"Supplier Cirebon-7";41;1;"KOTA-041";"Cirebon";7
+"SUP-609";"Supplier Sorong-8";95;1;"KOTA-095";"Sorong";8
+"SUP-610";"Supplier Palu-5";85;1;"KOTA-085";"Palu";5
+"SUP-611";"Supplier Banjarmasin-10";73;1;"KOTA-073";"Banjarmasin";10
+"SUP-612";"Supplier Palu-6";85;1;"KOTA-085";"Palu";6
+"SUP-613";"Supplier Jakarta Utara-7";47;1;"KOTA-047";"Jakarta Utara";7
+"SUP-614";"Supplier Tasikmalaya-7";44;1;"KOTA-044";"Tasikmalaya";7
+"SUP-615";"Supplier Probolinggo-4";63;1;"KOTA-063";"Probolinggo";4
+"SUP-616";"Supplier Bengkulu-8";13;1;"KOTA-013";"Bengkulu";8
+"SUP-617";"Supplier Jayapura-6";94;1;"KOTA-094";"Jayapura";6
+"SUP-618";"Supplier Mojokerto-8";61;1;"KOTA-061";"Mojokerto";8
+"SUP-619";"Supplier Batam-9";31;1;"KOTA-031";"Batam";9
+"SUP-620";"Supplier Langsa-6";2;2;"KOTA-002";"Langsa";6
+"SUP-621";"Supplier Solok-7";23;1;"KOTA-023";"Solok";7
+"SUP-622";"Supplier Jakarta Utara-8";47;1;"KOTA-047";"Jakarta Utara";8
+"SUP-623";"Supplier Tanjung Balai-7";11;1;"KOTA-011";"Tanjung Balai";7
+"SUP-624";"Supplier Bekasi-10";38;1;"KOTA-038";"Bekasi";10
+"SUP-625";"Supplier Semarang-7";53;1;"KOTA-053";"Semarang";7
+"SUP-626";"Supplier Lhokseumawe-10";3;2;"KOTA-003";"Lhokseumawe";10
+"SUP-627";"Supplier Jakarta Utara-9";47;1;"KOTA-047";"Jakarta Utara";9
+"SUP-628";"Supplier Banjarbaru-7";72;1;"KOTA-072";"Banjarbaru";7
+"SUP-629";"Supplier Bandung-9";36;1;"KOTA-036";"Bandung";9
+"SUP-630";"Supplier Kupang-8";69;1;"KOTA-069";"Kupang";8
+"SUP-631";"Supplier Bandar Lampung-6";28;1;"KOTA-028";"Bandar Lampung";6
+"SUP-632";"Supplier Salatiga-10";52;1;"KOTA-052";"Salatiga";10
+"SUP-633";"Supplier Tual-7";91;1;"KOTA-091";"Tual";7
+"SUP-634";"Supplier Magelang-7";50;1;"KOTA-050";"Magelang";7
+"SUP-635";"Supplier Padang Sidempuan-6";8;2;"KOTA-008";"Padang Sidempuan";6
+"SUP-636";"Supplier Bandar Lampung-7";28;1;"KOTA-028";"Bandar Lampung";7
+"SUP-637";"Supplier Surabaya-10";64;1;"KOTA-064";"Surabaya";10
+"SUP-638";"Supplier Sabang-10";4;2;"KOTA-004";"Sabang";10
+"SUP-639";"Supplier Pangkal Pinang-9";30;1;"KOTA-030";"Pangkal Pinang";9
+"SUP-640";"Supplier Sibolga-6";10;1;"KOTA-010";"Sibolga";6
+"SUP-641";"Supplier Banda Aceh-10";1;2;"KOTA-001";"Banda Aceh";10
+"SUP-642";"Supplier Mojokerto-9";61;1;"KOTA-061";"Mojokerto";9
+"SUP-643";"Supplier Kupang-9";69;1;"KOTA-069";"Kupang";9
+"SUP-644";"Supplier Makassar-7";80;1;"KOTA-080";"Makassar";7
+"SUP-645";"Supplier Palopo-9";81;1;"KOTA-081";"Palopo";9
+"SUP-646";"Supplier Tomohon-5";88;1;"KOTA-088";"Tomohon";5
+"SUP-647";"Supplier Magelang-8";50;1;"KOTA-050";"Magelang";8
+"SUP-648";"Supplier Jakarta Utara-10";47;1;"KOTA-047";"Jakarta Utara";10
+"SUP-649";"Supplier Kendari-10";84;1;"KOTA-084";"Kendari";10
+"SUP-650";"Supplier Banjar-4";37;1;"KOTA-037";"Banjar";4
+"SUP-651";"Supplier Bau-Bau-8";83;1;"KOTA-083";"Bau-Bau";8
+"SUP-652";"Supplier Ternate-6";92;1;"KOTA-092";"Ternate";6
+"SUP-653";"Supplier Palopo-10";81;1;"KOTA-081";"Palopo";10
+"SUP-654";"Supplier Manado-8";87;1;"KOTA-087";"Manado";8
+"SUP-655";"Supplier Lubuklinggau-5";24;1;"KOTA-024";"Lubuklinggau";5
+"SUP-656";"Supplier Manado-9";87;1;"KOTA-087";"Manado";9
+"SUP-657";"Supplier Mojokerto-10";61;1;"KOTA-061";"Mojokerto";10
+"SUP-658";"Supplier Denpasar-10";66;1;"KOTA-066";"Denpasar";10
+"SUP-659";"Supplier Sawahlunto-6";22;1;"KOTA-022";"Sawahlunto";6
+"SUP-660";"Supplier Kendari-11";84;1;"KOTA-084";"Kendari";11
+"SUP-661";"Supplier Madiun-7";59;1;"KOTA-059";"Madiun";7
+"SUP-662";"Supplier Padang-10";18;1;"KOTA-018";"Padang";10
+"SUP-663";"Supplier Tanjung Balai-8";11;1;"KOTA-011";"Tanjung Balai";8
+"SUP-664";"Supplier Sawahlunto-7";22;1;"KOTA-022";"Sawahlunto";7
+"SUP-665";"Supplier Bogor-10";39;1;"KOTA-039";"Bogor";10
+"SUP-666";"Supplier Langsa-7";2;2;"KOTA-002";"Langsa";7
+"SUP-667";"Supplier Langsa-8";2;2;"KOTA-002";"Langsa";8
+"SUP-668";"Supplier Pematangsiantar-10";9;2;"KOTA-009";"Pematangsiantar";10
+"SUP-669";"Supplier Salatiga-11";52;1;"KOTA-052";"Salatiga";11
+"SUP-670";"Supplier Jambi-4";14;1;"KOTA-014";"Jambi";4
+"SUP-671";"Supplier Langsa-9";2;2;"KOTA-002";"Langsa";9
+"SUP-672";"Supplier Sibolga-7";10;1;"KOTA-010";"Sibolga";7
+"SUP-673";"Supplier Binjai-5";6;2;"KOTA-006";"Binjai";5
+"SUP-674";"Supplier Pekanbaru-9";16;1;"KOTA-016";"Pekanbaru";9
+"SUP-675";"Supplier Yogyakarta-12";65;1;"KOTA-065";"Yogyakarta";12
+"SUP-676";"Supplier Manado-10";87;1;"KOTA-087";"Manado";10
+"SUP-677";"Supplier Magelang-9";50;1;"KOTA-050";"Magelang";9
+"SUP-678";"Supplier Tanjung Pinang-11";32;1;"KOTA-032";"Tanjung Pinang";11
+"SUP-679";"Supplier Singkawang-2";71;1;"KOTA-071";"Singkawang";2
+"SUP-680";"Supplier Padang-11";18;1;"KOTA-018";"Padang";11
+"SUP-681";"Supplier Madiun-8";59;1;"KOTA-059";"Madiun";8
+"SUP-682";"Supplier Sabang-11";4;2;"KOTA-004";"Sabang";11
+"SUP-683";"Supplier Batam-10";31;1;"KOTA-031";"Batam";10
+"SUP-684";"Supplier Tanjung Pinang-12";32;1;"KOTA-032";"Tanjung Pinang";12
+"SUP-685";"Supplier Probolinggo-5";63;1;"KOTA-063";"Probolinggo";5
+"SUP-686";"Supplier Lubuklinggau-6";24;1;"KOTA-024";"Lubuklinggau";6
+"SUP-687";"Supplier Padang Panjang-6";19;1;"KOTA-019";"Padang Panjang";6
+"SUP-688";"Supplier Tasikmalaya-8";44;1;"KOTA-044";"Tasikmalaya";8
+"SUP-689";"Supplier Prabumulih-6";27;1;"KOTA-027";"Prabumulih";6
+"SUP-690";"Supplier Kupang-10";69;1;"KOTA-069";"Kupang";10
+"SUP-691";"Supplier Banjarbaru-8";72;1;"KOTA-072";"Banjarbaru";8
+"SUP-692";"Supplier Bau-Bau-9";83;1;"KOTA-083";"Bau-Bau";9
+"SUP-693";"Supplier Blitar-10";57;1;"KOTA-057";"Blitar";10
+"SUP-694";"Supplier Jakarta Timur-5";48;1;"KOTA-048";"Jakarta Timur";5
+"SUP-695";"Supplier Padang-12";18;1;"KOTA-018";"Padang";12
+"SUP-696";"Supplier Surabaya-11";64;1;"KOTA-064";"Surabaya";11
+"SUP-697";"Supplier Subulussalam-8";5;2;"KOTA-005";"Subulussalam";8
+"SUP-698";"Supplier Surakarta-6";51;1;"KOTA-051";"Surakarta";6
+"SUP-699";"Supplier Dumai-5";15;1;"KOTA-015";"Dumai";5
+"SUP-700";"Supplier Blitar-11";57;1;"KOTA-057";"Blitar";11
+"SUP-701";"Supplier Cimahi-7";40;1;"KOTA-040";"Cimahi";7
+"SUP-702";"Supplier Kendari-12";84;1;"KOTA-084";"Kendari";12
+"SUP-703";"Supplier Tidore-5";93;1;"KOTA-093";"Tidore";5
+"SUP-704";"Supplier Manado-11";87;1;"KOTA-087";"Manado";11
+"SUP-705";"Supplier Ambon-10";90;1;"KOTA-090";"Ambon";10
+"SUP-706";"Supplier Metro-8";29;1;"KOTA-029";"Metro";8
+"SUP-707";"Supplier Pangkal Pinang-10";30;1;"KOTA-030";"Pangkal Pinang";10
+"SUP-708";"Supplier Palembang-5";26;1;"KOTA-026";"Palembang";5
+"SUP-709";"Supplier Lubuklinggau-7";24;1;"KOTA-024";"Lubuklinggau";7
+"SUP-710";"Supplier Banjarmasin-11";73;1;"KOTA-073";"Banjarmasin";11
+"SUP-711";"Supplier Cilegon-6";33;1;"KOTA-033";"Cilegon";6
+"SUP-712";"Supplier Bekasi-11";38;1;"KOTA-038";"Bekasi";11
+"SUP-713";"Supplier Tomohon-6";88;1;"KOTA-088";"Tomohon";6
+"SUP-714";"Supplier Mataram-9";67;1;"KOTA-067";"Mataram";9
+"SUP-715";"Supplier Kediri-6";58;1;"KOTA-058";"Kediri";6
+"SUP-716";"Supplier Mojokerto-11";61;1;"KOTA-061";"Mojokerto";11
+"SUP-717";"Supplier Depok-6";42;1;"KOTA-042";"Depok";6
+"SUP-718";"Supplier Sukabumi-5";43;1;"KOTA-043";"Sukabumi";5
+"SUP-719";"Supplier Pangkal Pinang-11";30;1;"KOTA-030";"Pangkal Pinang";11
+"SUP-720";"Supplier Pekanbaru-10";16;1;"KOTA-016";"Pekanbaru";10
+"SUP-721";"Supplier Tangerang -7";34;1;"KOTA-034";"Tangerang ";7
+"SUP-722";"Supplier Banjarbaru-9";72;1;"KOTA-072";"Banjarbaru";9
+"SUP-723";"Supplier Jakarta Barat-13";45;1;"KOTA-045";"Jakarta Barat";13
+"SUP-724";"Supplier Balikpapan-6";75;1;"KOTA-075";"Balikpapan";6
+"SUP-725";"Supplier Serang-9";35;1;"KOTA-035";"Serang";9
+"SUP-726";"Supplier Banjarmasin-12";73;1;"KOTA-073";"Banjarmasin";12
+"SUP-727";"Supplier Jakarta Pusat-6";46;1;"KOTA-046";"Jakarta Pusat";6
+"SUP-728";"Supplier Padang-13";18;1;"KOTA-018";"Padang";13
+"SUP-729";"Supplier Bukittinggi-6";17;1;"KOTA-017";"Bukittinggi";6
+"SUP-730";"Supplier Depok-7";42;1;"KOTA-042";"Depok";7
+"SUP-731";"Supplier Blitar-12";57;1;"KOTA-057";"Blitar";12
+"SUP-732";"Supplier Mataram-10";67;1;"KOTA-067";"Mataram";10
+"SUP-733";"Supplier Kendari-13";84;1;"KOTA-084";"Kendari";13
+"SUP-734";"Supplier Kupang-11";69;1;"KOTA-069";"Kupang";11
+"SUP-735";"Supplier Langsa-10";2;2;"KOTA-002";"Langsa";10
+"SUP-736";"Supplier Pangkal Pinang-12";30;1;"KOTA-030";"Pangkal Pinang";12
+"SUP-737";"Supplier Mojokerto-12";61;1;"KOTA-061";"Mojokerto";12
+"SUP-738";"Supplier Sukabumi-6";43;1;"KOTA-043";"Sukabumi";6
+"SUP-739";"Supplier Pontianak-6";70;1;"KOTA-070";"Pontianak";6
+"SUP-740";"Supplier Palu-7";85;1;"KOTA-085";"Palu";7
+"SUP-741";"Supplier Bogor-11";39;1;"KOTA-039";"Bogor";11
+"SUP-742";"Supplier Tanjung Pinang-13";32;1;"KOTA-032";"Tanjung Pinang";13
+"SUP-743";"Supplier Lubuklinggau-8";24;1;"KOTA-024";"Lubuklinggau";8
+"SUP-744";"Supplier Pekalongan-6";54;1;"KOTA-054";"Pekalongan";6
+"SUP-745";"Supplier Surabaya-12";64;1;"KOTA-064";"Surabaya";12
+"SUP-746";"Supplier Langsa-11";2;2;"KOTA-002";"Langsa";11
+"SUP-747";"Supplier Sabang-12";4;2;"KOTA-004";"Sabang";12
+"SUP-748";"Supplier Dumai-6";15;1;"KOTA-015";"Dumai";6
+"SUP-749";"Supplier Batu-8";56;1;"KOTA-056";"Batu";8
+"SUP-750";"Supplier Jakarta Timur-6";48;1;"KOTA-048";"Jakarta Timur";6
+"SUP-751";"Supplier Palu-8";85;1;"KOTA-085";"Palu";8
+"SUP-752";"Supplier Sukabumi-7";43;1;"KOTA-043";"Sukabumi";7
+"SUP-753";"Supplier Kendari-14";84;1;"KOTA-084";"Kendari";14
+"SUP-754";"Supplier Kotamobagu-10";89;1;"KOTA-089";"Kotamobagu";10
+"SUP-755";"Supplier Pekanbaru-11";16;1;"KOTA-016";"Pekanbaru";11
+"SUP-756";"Supplier Jakarta Pusat-7";46;1;"KOTA-046";"Jakarta Pusat";7
+"SUP-757";"Supplier Madiun-9";59;1;"KOTA-059";"Madiun";9
+"SUP-758";"Supplier Tanjung Balai-9";11;1;"KOTA-011";"Tanjung Balai";9
+"SUP-759";"Supplier Kendari-15";84;1;"KOTA-084";"Kendari";15
+"SUP-760";"Supplier Banjar-5";37;1;"KOTA-037";"Banjar";5
+"SUP-761";"Supplier Solok-8";23;1;"KOTA-023";"Solok";8
+"SUP-762";"Supplier Pasuruan-11";62;1;"KOTA-062";"Pasuruan";11
+"SUP-763";"Supplier Palu-9";85;1;"KOTA-085";"Palu";9
+"SUP-764";"Supplier Medan-11";7;2;"KOTA-007";"Medan";11
+"SUP-765";"Supplier Padang-14";18;1;"KOTA-018";"Padang";14
+"SUP-766";"Supplier Bukittinggi-7";17;1;"KOTA-017";"Bukittinggi";7
+"SUP-767";"Supplier Bau-Bau-10";83;1;"KOTA-083";"Bau-Bau";10
+"SUP-768";"Supplier Batam-11";31;1;"KOTA-031";"Batam";11
+"SUP-769";"Supplier Solok-9";23;1;"KOTA-023";"Solok";9
+"SUP-770";"Supplier Jakarta Selatan-11";49;1;"KOTA-049";"Jakarta Selatan";11
+"SUP-771";"Supplier Depok-8";42;1;"KOTA-042";"Depok";8
+"SUP-772";"Supplier Jakarta Utara-11";47;1;"KOTA-047";"Jakarta Utara";11
+"SUP-773";"Supplier Sabang-13";4;2;"KOTA-004";"Sabang";13
+"SUP-774";"Supplier Bukittinggi-8";17;1;"KOTA-017";"Bukittinggi";8
+"SUP-775";"Supplier Bandar Lampung-8";28;1;"KOTA-028";"Bandar Lampung";8
+"SUP-776";"Supplier Sukabumi-8";43;1;"KOTA-043";"Sukabumi";8
+"SUP-777";"Supplier Bau-Bau-11";83;1;"KOTA-083";"Bau-Bau";11
+"SUP-778";"Supplier Dumai-7";15;1;"KOTA-015";"Dumai";7
+"SUP-779";"Supplier Tangerang -8";34;1;"KOTA-034";"Tangerang ";8
+"SUP-780";"Supplier Tomohon-7";88;1;"KOTA-088";"Tomohon";7
+"SUP-781";"Supplier Padang Panjang-7";19;1;"KOTA-019";"Padang Panjang";7
+"SUP-782";"Supplier Cirebon-8";41;1;"KOTA-041";"Cirebon";8
+"SUP-783";"Supplier Tanjung Balai-10";11;1;"KOTA-011";"Tanjung Balai";10
+"SUP-784";"Supplier Tidore-6";93;1;"KOTA-093";"Tidore";6
+"SUP-785";"Supplier Binjai-6";6;2;"KOTA-006";"Binjai";6
+"SUP-786";"Supplier Kotamobagu-11";89;1;"KOTA-089";"Kotamobagu";11
+"SUP-787";"Supplier Subulussalam-9";5;2;"KOTA-005";"Subulussalam";9
+"SUP-788";"Supplier Pekalongan-7";54;1;"KOTA-054";"Pekalongan";7
+"SUP-789";"Supplier Pontianak-7";70;1;"KOTA-070";"Pontianak";7
+"SUP-790";"Supplier Yogyakarta-13";65;1;"KOTA-065";"Yogyakarta";13
+"SUP-791";"Supplier Padang-15";18;1;"KOTA-018";"Padang";15
+"SUP-792";"Supplier Jambi-5";14;1;"KOTA-014";"Jambi";5
+"SUP-793";"Supplier Gorontalo-8";79;1;"KOTA-079";"Gorontalo";8
+"SUP-794";"Supplier Batu-9";56;1;"KOTA-056";"Batu";9
+"SUP-795";"Supplier Ternate-7";92;1;"KOTA-092";"Ternate";7
+"SUP-796";"Supplier Dumai-8";15;1;"KOTA-015";"Dumai";8
+"SUP-797";"Supplier Sawahlunto-8";22;1;"KOTA-022";"Sawahlunto";8
+"SUP-798";"Supplier Palangka Raya-6";74;1;"KOTA-074";"Palangka Raya";6
+"SUP-799";"Supplier Bukittinggi-9";17;1;"KOTA-017";"Bukittinggi";9
+"SUP-800";"Supplier Bandar Lampung-9";28;1;"KOTA-028";"Bandar Lampung";9
+"SUP-801";"Supplier Langsa-12";2;2;"KOTA-002";"Langsa";12
+"SUP-802";"Supplier Tual-8";91;1;"KOTA-091";"Tual";8
+"SUP-803";"Supplier Tangerang -9";34;1;"KOTA-034";"Tangerang ";9
+"SUP-804";"Supplier Kediri-7";58;1;"KOTA-058";"Kediri";7
+"SUP-805";"Supplier Makassar-8";80;1;"KOTA-080";"Makassar";8
+"SUP-806";"Supplier Tasikmalaya-9";44;1;"KOTA-044";"Tasikmalaya";9
+"SUP-807";"Supplier Payakumbuh-8";21;1;"KOTA-021";"Payakumbuh";8
+"SUP-808";"Supplier Medan-12";7;2;"KOTA-007";"Medan";12
+"SUP-809";"Supplier Kupang-12";69;1;"KOTA-069";"Kupang";12
+"SUP-810";"Supplier Gorontalo-9";79;1;"KOTA-079";"Gorontalo";9
+"SUP-811";"Supplier Denpasar-11";66;1;"KOTA-066";"Denpasar";11
+"SUP-812";"Supplier Samarinda-3";77;1;"KOTA-077";"Samarinda";3
+"SUP-813";"Supplier Banda Aceh-11";1;2;"KOTA-001";"Banda Aceh";11
+"SUP-814";"Supplier Palembang-6";26;1;"KOTA-026";"Palembang";6
+"SUP-815";"Supplier Padang Sidempuan-7";8;2;"KOTA-008";"Padang Sidempuan";7
+"SUP-816";"Supplier Kupang-13";69;1;"KOTA-069";"Kupang";13
+"SUP-817";"Supplier Solok-10";23;1;"KOTA-023";"Solok";10
+"SUP-818";"Supplier Tidore-7";93;1;"KOTA-093";"Tidore";7
+"SUP-819";"Supplier Singkawang-3";71;1;"KOTA-071";"Singkawang";3
+"SUP-820";"Supplier Jakarta Barat-14";45;1;"KOTA-045";"Jakarta Barat";14
+"SUP-821";"Supplier Pontianak-8";70;1;"KOTA-070";"Pontianak";8
+"SUP-822";"Supplier Probolinggo-6";63;1;"KOTA-063";"Probolinggo";6
+"SUP-823";"Supplier Padang Sidempuan-8";8;2;"KOTA-008";"Padang Sidempuan";8
+"SUP-824";"Supplier Malang-4";60;1;"KOTA-060";"Malang";4
+"SUP-825";"Supplier Bima-10";68;1;"KOTA-068";"Bima";10
+"SUP-826";"Supplier Solok-11";23;1;"KOTA-023";"Solok";11
+"SUP-827";"Supplier Jambi-6";14;1;"KOTA-014";"Jambi";6
+"SUP-828";"Supplier Bukittinggi-10";17;1;"KOTA-017";"Bukittinggi";10
+"SUP-829";"Supplier Pekalongan-8";54;1;"KOTA-054";"Pekalongan";8
+"SUP-830";"Supplier Padang Sidempuan-9";8;2;"KOTA-008";"Padang Sidempuan";9
+"SUP-831";"Supplier Jakarta Utara-12";47;1;"KOTA-047";"Jakarta Utara";12
+"SUP-832";"Supplier Gorontalo-10";79;1;"KOTA-079";"Gorontalo";10
+"SUP-833";"Supplier Bekasi-12";38;1;"KOTA-038";"Bekasi";12
+"SUP-834";"Supplier Kupang-14";69;1;"KOTA-069";"Kupang";14
+"SUP-835";"Supplier Palangka Raya-7";74;1;"KOTA-074";"Palangka Raya";7
+"SUP-836";"Supplier Surakarta-7";51;1;"KOTA-051";"Surakarta";7
+"SUP-837";"Supplier Jambi-7";14;1;"KOTA-014";"Jambi";7
+"SUP-838";"Supplier Bandung-10";36;1;"KOTA-036";"Bandung";10
+"SUP-839";"Supplier Surabaya-13";64;1;"KOTA-064";"Surabaya";13
+"SUP-840";"Supplier Kupang-15";69;1;"KOTA-069";"Kupang";15
+"SUP-841";"Supplier Semarang-8";53;1;"KOTA-053";"Semarang";8
+"SUP-842";"Supplier Pagar Alam-3";25;1;"KOTA-025";"Pagar Alam";3
+"SUP-843";"Supplier Blitar-13";57;1;"KOTA-057";"Blitar";13
+"SUP-844";"Supplier Cimahi-8";40;1;"KOTA-040";"Cimahi";8
+"SUP-845";"Supplier Banjar-6";37;1;"KOTA-037";"Banjar";6
+"SUP-846";"Supplier Bengkulu-9";13;1;"KOTA-013";"Bengkulu";9
+"SUP-847";"Supplier Bontang-8";76;1;"KOTA-076";"Bontang";8
+"SUP-848";"Supplier Ambon-11";90;1;"KOTA-090";"Ambon";11
+"SUP-849";"Supplier Bitung-4";86;1;"KOTA-086";"Bitung";4
+"SUP-850";"Supplier Samarinda-4";77;1;"KOTA-077";"Samarinda";4
+"SUP-851";"Supplier Pagar Alam-4";25;1;"KOTA-025";"Pagar Alam";4
+"SUP-852";"Supplier Bandung-11";36;1;"KOTA-036";"Bandung";11
+"SUP-853";"Supplier Bandar Lampung-10";28;1;"KOTA-028";"Bandar Lampung";10
+"SUP-854";"Supplier Palembang-7";26;1;"KOTA-026";"Palembang";7
+"SUP-855";"Supplier Bukittinggi-11";17;1;"KOTA-017";"Bukittinggi";11
+"SUP-856";"Supplier Bandar Lampung-11";28;1;"KOTA-028";"Bandar Lampung";11
+"SUP-857";"Supplier Bontang-9";76;1;"KOTA-076";"Bontang";9
+"SUP-858";"Supplier Pematangsiantar-11";9;2;"KOTA-009";"Pematangsiantar";11
+"SUP-859";"Supplier Padang Panjang-8";19;1;"KOTA-019";"Padang Panjang";8
+"SUP-860";"Supplier Dumai-9";15;1;"KOTA-015";"Dumai";9
+"SUP-861";"Supplier Cirebon-9";41;1;"KOTA-041";"Cirebon";9
+"SUP-862";"Supplier Mataram-11";67;1;"KOTA-067";"Mataram";11
+"SUP-863";"Supplier Pagar Alam-5";25;1;"KOTA-025";"Pagar Alam";5
+"SUP-864";"Supplier Samarinda-5";77;1;"KOTA-077";"Samarinda";5
+"SUP-865";"Supplier Ternate-8";92;1;"KOTA-092";"Ternate";8
+"SUP-866";"Supplier Tangerang -10";34;1;"KOTA-034";"Tangerang ";10
+"SUP-867";"Supplier Cirebon-10";41;1;"KOTA-041";"Cirebon";10
+"SUP-868";"Supplier Cilegon-7";33;1;"KOTA-033";"Cilegon";7
+"SUP-869";"Supplier Tidore-8";93;1;"KOTA-093";"Tidore";8
+"SUP-870";"Supplier Bukittinggi-12";17;1;"KOTA-017";"Bukittinggi";12
+"SUP-871";"Supplier Payakumbuh-9";21;1;"KOTA-021";"Payakumbuh";9
+"SUP-872";"Supplier Sorong-9";95;1;"KOTA-095";"Sorong";9
+"SUP-873";"Supplier Pare-Pare-4";82;1;"KOTA-082";"Pare-Pare";4
+"SUP-874";"Supplier Sawahlunto-9";22;1;"KOTA-022";"Sawahlunto";9
+"SUP-875";"Supplier Langsa-13";2;2;"KOTA-002";"Langsa";13
+"SUP-876";"Supplier Jambi-8";14;1;"KOTA-014";"Jambi";8
+"SUP-877";"Supplier Banjar-7";37;1;"KOTA-037";"Banjar";7
+"SUP-878";"Supplier Tanjung Balai-11";11;1;"KOTA-011";"Tanjung Balai";11
+"SUP-879";"Supplier Dumai-10";15;1;"KOTA-015";"Dumai";10
+"SUP-880";"Supplier Pekanbaru-12";16;1;"KOTA-016";"Pekanbaru";12
+"SUP-881";"Supplier Pontianak-9";70;1;"KOTA-070";"Pontianak";9
+"SUP-882";"Supplier Denpasar-12";66;1;"KOTA-066";"Denpasar";12
+"SUP-883";"Supplier Lhokseumawe-11";3;2;"KOTA-003";"Lhokseumawe";11
+"SUP-884";"Supplier Lubuklinggau-9";24;1;"KOTA-024";"Lubuklinggau";9
+"SUP-885";"Supplier Singkawang-4";71;1;"KOTA-071";"Singkawang";4
+"SUP-886";"Supplier Banjarbaru-10";72;1;"KOTA-072";"Banjarbaru";10
+"SUP-887";"Supplier Tidore-9";93;1;"KOTA-093";"Tidore";9
+"SUP-888";"Supplier Makassar-9";80;1;"KOTA-080";"Makassar";9
+"SUP-889";"Supplier Bukittinggi-13";17;1;"KOTA-017";"Bukittinggi";13
+"SUP-890";"Supplier Padang-16";18;1;"KOTA-018";"Padang";16
+"SUP-891";"Supplier Pagar Alam-6";25;1;"KOTA-025";"Pagar Alam";6
+"SUP-892";"Supplier Bau-Bau-12";83;1;"KOTA-083";"Bau-Bau";12
+"SUP-893";"Supplier Denpasar-13";66;1;"KOTA-066";"Denpasar";13
+"SUP-894";"Supplier Palembang-8";26;1;"KOTA-026";"Palembang";8
+"SUP-895";"Supplier Palopo-11";81;1;"KOTA-081";"Palopo";11
+"SUP-896";"Supplier Bogor-12";39;1;"KOTA-039";"Bogor";12
+"SUP-897";"Supplier Sukabumi-9";43;1;"KOTA-043";"Sukabumi";9
+"SUP-898";"Supplier Kendari-16";84;1;"KOTA-084";"Kendari";16
+"SUP-899";"Supplier Tasikmalaya-10";44;1;"KOTA-044";"Tasikmalaya";10
+"SUP-900";"Supplier Manado-12";87;1;"KOTA-087";"Manado";12
+"SUP-901";"Supplier Jayapura-7";94;1;"KOTA-094";"Jayapura";7
+"SUP-902";"Supplier Sibolga-8";10;1;"KOTA-010";"Sibolga";8
+"SUP-903";"Supplier Pangkal Pinang-13";30;1;"KOTA-030";"Pangkal Pinang";13
+"SUP-904";"Supplier Banjarmasin-13";73;1;"KOTA-073";"Banjarmasin";13
+"SUP-905";"Supplier Metro-9";29;1;"KOTA-029";"Metro";9
+"SUP-906";"Supplier Lhokseumawe-12";3;2;"KOTA-003";"Lhokseumawe";12
+"SUP-907";"Supplier Metro-10";29;1;"KOTA-029";"Metro";10
+"SUP-908";"Supplier Padang-17";18;1;"KOTA-018";"Padang";17
+"SUP-909";"Supplier Bima-11";68;1;"KOTA-068";"Bima";11
+"SUP-910";"Supplier Tangerang -11";34;1;"KOTA-034";"Tangerang ";11
+"SUP-911";"Supplier Tidore-10";93;1;"KOTA-093";"Tidore";10
+"SUP-912";"Supplier Padang Panjang-9";19;1;"KOTA-019";"Padang Panjang";9
+"SUP-913";"Supplier Surakarta-8";51;1;"KOTA-051";"Surakarta";8
+"SUP-914";"Supplier Depok-9";42;1;"KOTA-042";"Depok";9
+"SUP-915";"Supplier Kendari-17";84;1;"KOTA-084";"Kendari";17
+"SUP-916";"Supplier Palopo-12";81;1;"KOTA-081";"Palopo";12
+"SUP-917";"Supplier Padang Sidempuan-10";8;2;"KOTA-008";"Padang Sidempuan";10
+"SUP-918";"Supplier Banjar-8";37;1;"KOTA-037";"Banjar";8
+"SUP-919";"Supplier Palu-10";85;1;"KOTA-085";"Palu";10
+"SUP-920";"Supplier Metro-11";29;1;"KOTA-029";"Metro";11
+"SUP-921";"Supplier Binjai-7";6;2;"KOTA-006";"Binjai";7
+"SUP-922";"Supplier Padang Sidempuan-11";8;2;"KOTA-008";"Padang Sidempuan";11
+"SUP-923";"Supplier Palu-11";85;1;"KOTA-085";"Palu";11
+"SUP-924";"Supplier Manado-13";87;1;"KOTA-087";"Manado";13
+"SUP-925";"Supplier Pare-Pare-5";82;1;"KOTA-082";"Pare-Pare";5
+"SUP-926";"Supplier Depok-10";42;1;"KOTA-042";"Depok";10
+"SUP-927";"Supplier Magelang-10";50;1;"KOTA-050";"Magelang";10
+"SUP-928";"Supplier Padang Sidempuan-12";8;2;"KOTA-008";"Padang Sidempuan";12
+"SUP-929";"Supplier Pontianak-10";70;1;"KOTA-070";"Pontianak";10
+"SUP-930";"Supplier Bau-Bau-13";83;1;"KOTA-083";"Bau-Bau";13
+"SUP-931";"Supplier Banjar-9";37;1;"KOTA-037";"Banjar";9
+"SUP-932";"Supplier Bau-Bau-14";83;1;"KOTA-083";"Bau-Bau";14
+"SUP-933";"Supplier Jakarta Utara-13";47;1;"KOTA-047";"Jakarta Utara";13
+"SUP-934";"Supplier Tasikmalaya-11";44;1;"KOTA-044";"Tasikmalaya";11
+"SUP-935";"Supplier Batam-12";31;1;"KOTA-031";"Batam";12
+"SUP-936";"Supplier Bukittinggi-14";17;1;"KOTA-017";"Bukittinggi";14
+"SUP-937";"Supplier Surabaya-14";64;1;"KOTA-064";"Surabaya";14
+"SUP-938";"Supplier Jakarta Utara-14";47;1;"KOTA-047";"Jakarta Utara";14
+"SUP-939";"Supplier Payakumbuh-10";21;1;"KOTA-021";"Payakumbuh";10
+"SUP-940";"Supplier Jakarta Timur-7";48;1;"KOTA-048";"Jakarta Timur";7
+"SUP-941";"Supplier Kupang-16";69;1;"KOTA-069";"Kupang";16
+"SUP-942";"Supplier Subulussalam-10";5;2;"KOTA-005";"Subulussalam";10
+"SUP-943";"Supplier Tidore-11";93;1;"KOTA-093";"Tidore";11
+"SUP-944";"Supplier Bengkulu-10";13;1;"KOTA-013";"Bengkulu";10
+"SUP-945";"Supplier Palembang-9";26;1;"KOTA-026";"Palembang";9
+"SUP-946";"Supplier Banjar-10";37;1;"KOTA-037";"Banjar";10
+"SUP-947";"Supplier Binjai-8";6;2;"KOTA-006";"Binjai";8
+"SUP-948";"Supplier Bima-12";68;1;"KOTA-068";"Bima";12
+"SUP-949";"Supplier Ambon-12";90;1;"KOTA-090";"Ambon";12
+"SUP-950";"Supplier Jakarta Utara-15";47;1;"KOTA-047";"Jakarta Utara";15
+"SUP-951";"Supplier Lubuklinggau-10";24;1;"KOTA-024";"Lubuklinggau";10
+"SUP-952";"Supplier Ambon-13";90;1;"KOTA-090";"Ambon";13
+"SUP-953";"Supplier Palopo-13";81;1;"KOTA-081";"Palopo";13
+"SUP-954";"Supplier Kendari-18";84;1;"KOTA-084";"Kendari";18
+"SUP-955";"Supplier Medan-13";7;2;"KOTA-007";"Medan";13
+"SUP-956";"Supplier Malang-5";60;1;"KOTA-060";"Malang";5
+"SUP-957";"Supplier Dumai-11";15;1;"KOTA-015";"Dumai";11
+"SUP-958";"Supplier Bitung-5";86;1;"KOTA-086";"Bitung";5
+"SUP-959";"Supplier Sukabumi-10";43;1;"KOTA-043";"Sukabumi";10
+"SUP-960";"Supplier Pekalongan-9";54;1;"KOTA-054";"Pekalongan";9
+"SUP-961";"Supplier Palu-12";85;1;"KOTA-085";"Palu";12
+"SUP-962";"Supplier Depok-11";42;1;"KOTA-042";"Depok";11
+"SUP-963";"Supplier Dumai-12";15;1;"KOTA-015";"Dumai";12
+"SUP-964";"Supplier Probolinggo-7";63;1;"KOTA-063";"Probolinggo";7
+"SUP-965";"Supplier Jakarta Pusat-8";46;1;"KOTA-046";"Jakarta Pusat";8
+"SUP-966";"Supplier Tegal-5";55;1;"KOTA-055";"Tegal";5
+"SUP-967";"Supplier Magelang-11";50;1;"KOTA-050";"Magelang";11
+"SUP-968";"Supplier Mojokerto-13";61;1;"KOTA-061";"Mojokerto";13
+"SUP-969";"Supplier Ambon-14";90;1;"KOTA-090";"Ambon";14
+"SUP-970";"Supplier Tidore-12";93;1;"KOTA-093";"Tidore";12
+"SUP-971";"Supplier Kotamobagu-12";89;1;"KOTA-089";"Kotamobagu";12
+"SUP-972";"Supplier Gorontalo-11";79;1;"KOTA-079";"Gorontalo";11
+"SUP-973";"Supplier Cirebon-11";41;1;"KOTA-041";"Cirebon";11
+"SUP-974";"Supplier Bogor-13";39;1;"KOTA-039";"Bogor";13
+"SUP-975";"Supplier Balikpapan-7";75;1;"KOTA-075";"Balikpapan";7
+"SUP-976";"Supplier Tangerang -12";34;1;"KOTA-034";"Tangerang ";12
+"SUP-977";"Supplier Padang Sidempuan-13";8;2;"KOTA-008";"Padang Sidempuan";13
+"SUP-978";"Supplier Bekasi-13";38;1;"KOTA-038";"Bekasi";13
+"SUP-979";"Supplier Pariaman-12";20;1;"KOTA-020";"Pariaman";12
+"SUP-980";"Supplier Dumai-13";15;1;"KOTA-015";"Dumai";13
+"SUP-981";"Supplier Pasuruan-12";62;1;"KOTA-062";"Pasuruan";12
+"SUP-982";"Supplier Bekasi-14";38;1;"KOTA-038";"Bekasi";14
+"SUP-983";"Supplier Prabumulih-7";27;1;"KOTA-027";"Prabumulih";7
+"SUP-984";"Supplier Tangerang -13";34;1;"KOTA-034";"Tangerang ";13
+"SUP-985";"Supplier Medan-14";7;2;"KOTA-007";"Medan";14
+"SUP-986";"Supplier Pariaman-13";20;1;"KOTA-020";"Pariaman";13
+"SUP-987";"Supplier Dumai-14";15;1;"KOTA-015";"Dumai";14
+"SUP-988";"Supplier Jambi-9";14;1;"KOTA-014";"Jambi";9
+"SUP-989";"Supplier Banjar-11";37;1;"KOTA-037";"Banjar";11
+"SUP-990";"Supplier Bandung-12";36;1;"KOTA-036";"Bandung";12
+"SUP-991";"Supplier Bima-13";68;1;"KOTA-068";"Bima";13
+"SUP-992";"Supplier Bau-Bau-15";83;1;"KOTA-083";"Bau-Bau";15
+"SUP-993";"Supplier Tanjung Balai-12";11;1;"KOTA-011";"Tanjung Balai";12
+"SUP-994";"Supplier Padang Panjang-10";19;1;"KOTA-019";"Padang Panjang";10
+"SUP-995";"Supplier Tebing Tinggi-8";12;1;"KOTA-012";"Tebing Tinggi";8
+"SUP-996";"Supplier Jakarta Barat-15";45;1;"KOTA-045";"Jakarta Barat";15
+"SUP-997";"Supplier Tegal-6";55;1;"KOTA-055";"Tegal";6
+"SUP-998";"Supplier Samarinda-6";77;1;"KOTA-077";"Samarinda";6
+"SUP-999";"Supplier Pematangsiantar-12";9;2;"KOTA-009";"Pematangsiantar";12
+"SUP-1000";"Supplier Palu-13";85;1;"KOTA-085";"Palu";13
+"SUP-1001";"Supplier Sawahlunto-10";22;1;"KOTA-022";"Sawahlunto";10
